@@ -1,0 +1,50 @@
+well conditions. 
+The vapor phase steam oil ratio on a mass basis could be as low as 10-20 based on laboratory steam distillations. The presence of some hydrocarbon in the steam may affect logging tools that respond to oxygen and carbon densities. 
+Superheated steam vaporizes more oil than saturated steam. In comparative runs at 400 "F superheated steam distilled 25% more Kern River oil than saturated steam. This interesting effect noted in previous work probably has little application in the field where superheated steam conditions are unlikely, but could be useful in a surface upgrading technique. 
+Nomenclature 
+A WT= automatic well test site 
+DDT= dynamic distillation test 
+EACN= equivalent alkane carbon number 
+FPD= freezing point depression 
+HC= hydrocarbon 
+IDA= isochoric distillation analysis 
+MBM= material balance model 
+µ= viscosity, cp 
+p= density, glee 
+SPT = static system pressure test 
+SWID= stage-wise isochoric distillation test 
+TBP= total boiling point 
+VL= vapor liquid equilibrium 
+VLL= vapor liquid equilibrium 
+VoNoi= steam distillation yield of oil 
+VPO= vapor phase osmometry 
+VSOR= vapor steam oil ratio 
+VwNoi= steam distillation factor 
+Acknowledgements 
+The authors wish to acknowledge Texaco Inc./EPTD for generous and extended support of the contract with the Improved Oil Recovery Consortium (IORC) at Texas A & M University. We also acknowledge the experimental work of S. D. Tran (EPTD) and G. M. Sitton (EPTD) for fluid characterization and compositional analyses, and helpful discussions with R. E. Hierling and Y. B. Chang. 
+References 
+Richardson, W. C. and Fontaine, M. F.: "Near Equilibrium Ratios for a Petroleum Reservoir Fluid Under Steamflood," presented at the National ACS Spring Meeting, Denver, CO, April I, 1993. 
+Johnson, R. S, Mims, D. S., Haney, K., and Chu, C.: "History Matching of High-and low-Quality Steamfloods in Kem River Field, California," SPE Res. Eng., Feb. 1992, 75. 
+Willman, B. T., Valleroy, V. V., Runberg, G. W., Cornelius, A. J., and Powers, L. W. "Laboratory Studies of Oil Recovery by Steam Injection," J. Pet. Tech., July 1961, 681. 
+Volek, C. W., and Pryor, J. A. "Steam Distillation Drive -Brea Field, California," J. Pet. Tech., (August 1970), 899. 
+Closmann, P. J., and Seba, R. D. "Laboratory Tests on Heavy Oil 
+Recovery by Steam Injection," Soc. Pet. Eng. J. 1983, 417. 
+Wu, C. H.: "A Critical Review of Steamtlood Mechanisms," SPE 6550, presented at the SPE 47th California Regional Meeting in Bakersfield, California, April 13-15, 1977. 
+Pratts, M.: Thermal Recovery, SPE Monograph, vol. 7, 1986. 
+Schmidt, R. L.: 'Thermal Enhanced Oil Recovery -Current Status and Future Needs," Chem. Eng. Progress, 47, Jan. 1990. 
+Blevins, T. R.: "Steamflooding In the U.S.: A Status Report," J. Pet. Tech., 548, May 1990. 
+Reis, J. C. "Modeling of Distillation of Light Oil During High-Temperature Nitrogen Corefloods," In Situ, 15(2), 1991, 149. 
+Wu, C. H., and Brown, A. "Crude Oil Steam Distillation in Steam Flooding. Final Report," DOFJET/12357-3, August 1980. 
+Wu, C.H., and Brown, A: "A Laboratory Study on Steam Distillation in Porous Media," SPE 5569. presented at the 50th Annual Fall SPE Meeting, Dallas, Texas, September 28 -October I, 1975. 
+Duerksen, J. H., and Hsueh, L. "Steam Distillation of Crude Oils," SPE #10070, presented at the Fall SPE Meeting, San Antonio, Texas October 5 -7,. 1981. 
+Hsueh, L., Hong, K. C., and Duerksen, J. H. "Simulation of High Pressure and High Temperature Steam Distillation of Crude Oils," presented at the 1982 UNITAR Second International Conference on Heavy Crude and Tar Sands, Caracas, Venezuela, Feb. 7-17. 
+Wu, C. H., and Elder, R. B., "Crude Oil Steam Distillation in Steam Flooding," Final Report, DOFJET/12357-3, August 1980. 
+Langhoff, J. A. and Wu, C. "Calculation of High Temperature Crude Oil-Water-Vapor Separations Using Simulated Distillation Data," SPE 13075, presented at the 59th SPE Annual Conference in Houston, TX, September 16-19, 1984. 
+Northrop, P. S. and Venkatesan, V. N.: "Analytical Steam Distillation Model for Thermal Enhanced Oil Recovery Processes," !&EC Research, 32, 2039 (1993). 
+Richardson, W.C., Fontaine, M.F. and Haynes, S.: "Compositional Changes in Distilled, Steam-Distilled, and Steam-flooded Crude Oils," paper SPE 24033 presented at the Western Regional Meeting of the Society of Petroleum Engineers of AIME, Bakersfield, CA., (March 30-April 1, 1992). 
+Johnson, F. S., Walker, C. J., and Bayazeed, A. F.: "Oil Vaporization During Steamtlooding," J. Pet. Tech., 1971, June, 731. 
+Billman, A.L.: Estimation of 3-Phase Separation K-values Using Laboratory 3-Phase Separation Tests, M.S. Thesis, Texas A&M University, (December 1989). 
+Coats, K.H. and Smart, G.T.: "Application of a Regression-Based EOS PVT Program to Laboratory Data," paper SPE 11197 presented at the 57th Annual Fall Technical Conference and Exhibition of the Society of Petroleum Engineers of AIME, New Orleans, LA., (Sept. 26-29, 1982). 
+Beladi, M.K.: Three-phase Hydrocarbon/Water Separation and K­values, Ph. D. Dissertation, Texas A&M University, (December 1995). 
+Beladi, M.K., Eubank, P.T., Barrufet, M.A., Wu, C.H.,: "V-L-L Equilibria Data and K-values for Pseudo-Components of a Crude Oil," paper SPE 27873 presented at the 1994 Western Regional Conference and Exhibition of the Society of Petroleum Engineers of AIME, Long Beach, CA., (March 23-25, 1994). 
+Wu, C.H., Eubank, P.T., Forero, A., Billman, A.L., Beladi, M.K., and Alvarado, J.F.: "A New Laboratory-Mathematical Technique to Determine Three-phase K-values at High Temperature and Pressures," ACS Symposium on Enhanced Oil Recovery, March 

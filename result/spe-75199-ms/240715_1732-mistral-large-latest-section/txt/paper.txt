@@ -1,0 +1,142 @@
+This is the beginning of page 1
+SPE 75199 
+Improved Oil Recovery by Flank Waterflooding in the Lagunillas 07 Reservoir, Venezuela: A Case Study 
+I. S. Agbon, M. Ramones, S. Patniyot and R. Chang, PDVSA-INTEVEP and N. Chek-Yan, REIMPET, C. A. 
+Copyright  2002, Society of Petroleum Engineers Inc. 
+This paper was prepared for presentation at the SPE/DOE Improved Oil Recovery Symposium held in Tulsa, Oklahoma, 13–17 April 2002. 
+This paper was selected for presentation by an SPE Program Committee following review of information contained in an abstract submitted by the author(s). Contents of the paper, as presented, have not been reviewed by the Society of Petroleum Engineers and are subject to correction by the author(s). The material, as presented, does not necessarily reflect any position of the Society of Petroleum Engineers, its officers, or members. Papers presented at SPE meetings are subject to publication review by Editorial Committees of the Society of Petroleum Engineers. Electronic reproduction, distribution, or storage of any part of this paper for commercial purposes without the written consent of the Society of Petroleum Engineers is prohibited. Permission to reproduce in print is restricted to an abstract of not more than 300 words; illustrations may not be copied. The abstract must contain conspicuous acknowledgment of where and by whom the paper was presented. Write Librarian, SPE, P.O. Box 833836, Richardson, TX 75083-3836, U.S.A., fax 01-972-952-9435. 
+Abstract 
+The Lagunillas 07 reservoir is located Lake Maracaibo in Venezuela. The reservoir contains the Laguna, Lagunillas and La Rosa formations. The sands are of the Miocene age, poorly consolidated, well sorted and fine-grained. The oil had an 18º API and a viscosity of 21 cp at initial conditions. Oil production began in 1926 and more than 1,000 wells have been drilled. Flank waterflooding, at an average water injection rate of 100,000 stb per day, was introduced for pressure maintenance purposes in 1984. By December 1999, cumulative water injected was 558 million barrels and 36.7 % of the initial oil in place had been produced. 
+This paper evaluates the impact of the flank waterflooding project in the Lagunillas 07 reservoir. The net oil recovery due to the flank waterflooding is estimated. The real time water front movement is determined with a front-tracking technique that uses fluid production data. The movement shows water fingering due to reservoir heterogeneity. A good match is obtained when the water front movement is cross-correlated with the petrophysical properties of the reservoir. Finally, the impact of the flank waterflooding on recovery factor is highlighted. 
+The paper concludes that a net oil recovery of 17 million barrels can be attributed to the flank waterflooding from 1984 to 1999. A net oil recovery of 160 million barrels is expected if the flank waterflooding is continued until 2019. The flank waterflooding is therefore considered a success. A future development plan is proposed for the reservoir. 
+Introduction 
+The Lagunillas 07 reservoir is made up of an arch structure with an average strike of 300o and a southwest dip of 3o to 3.5o . The average sand thickness is 86 ft. The reservoir consists of 3 units with cross flow and good vertical communication. The units are the Laguna, the Lagunillas Inferior and the La Rosa. The Laguna and the Lagunillas Inferior units consist of fluvio-deltaic sediments. There is sand continuity in both units. The Laguna unit pinches out to the northeast and is more complex with thinner, less continuous sands. The Lagunillas Inferior unit contains the best oil sands and accounts for about 90% of all initial oil in place. The La Rosa unit is mainly marine and is more heterogeneous with less oil sands.1 
+The first well was drilled in 1926. Early production data was of poor quality. Subsidence data were not taken until 1940 although surface subsidence due to rock compaction had occurred earlier. Rock property data were obtained from 2 core analysis studies. Average porosity was 30% and connate water saturation was 16%. The reservoir temperature was 152 oF. 
+Field Production and Injection History 
+Oil production began in 1926 and reached a daily peak of 115,000 stock tank barrels (stb) per day in 1937. It fell to an average of 63,000 stb per day between 1938 and 1958 despite the installation of artificial lift to improve productivity due to pressure depletion. After 1958, the production rate became market dependent. It steadily declined to a low level of 16,000 stb per day in 1972. New infill wells were drilled and the oil production rate increased to 49,000 stb per day. The average reservoir pressure declined by more than 50% between 1926 and 1980. This decline prompted a study to determine the best pressure maintenance method.2 A flank waterflood was recommended by the study. The flank waterflooding was initiated in 1984.  Figure 1 shows the daily oil production and the watercut. The watercut was in the 15% to 20% range between 1944 and 1984. It increased to 55% in 1998 as a result of the flank waterflooding. 
+The water injection rate averaged about 100,000 stb per day from 1984 to 1996 as shown in Figure 2. It 
+This is the end of page 1<
+This is the beginning of page 2
+ranged from 100,000 stb per day to 150,000 stb per day between 1996 and 1999. Fifteen injector wells were drilled in the southern part of the reservoir in 1984. But, only 12 of the wells were active. The waterflooding was aimed at maintaining reservoir pressure by enhancing the energy of the natural aquifer water influx. Cumulative water injected by December 1999 was 549 million barrels. 
+Pressure History 
+The initial pressure of the reservoir was 1785 psia at a datum of 3,700 feet subsea. The reservoir was initially undersaturated. Bubble point pressure was 1,154 psia. Figures 3 shows the plot of average reservoir pressure vs. time. The average reservoir pressure at a datum of 3,700 ft.ss. declined exponentially from 1,785 psia in 1926 to 788 psia in 1980. The pressure was distributed unevenly areally in the reservoir due to the reservoir exploitation schemes and the absence of deep water drilling technology. In 1936, the average reservoir pressure ranged between 1200 psia and 1,700 psia with the pressure increasing westward. The average reservoir pressure increased from 753 psia in 1984 to 950 psia in 1999 in response to the water injection. 
+Figures 4 to 7 show the pressure distribution (isobar) maps for the reservoir in 1984, 1990, 1995 and 1998. The most dramatic increase occurred in the southern part of the reservoir near the injection wells. The general increase in pressure near the injection wells was not uniform as could be seen in the 1990 isobar map in Figure 5. Some of the wells near the injector wells did not experience as much of a general increase in pressure as other wells that were much further away. This could be attributed of the uneven areal pressure communication in the reservoir due to the reservoir heterogeneity. Despite this, the flank waterflooding seems to have achieved its main objective of maintaining the reservoir pressure. 
+Petrophysical Evaluation. 
+ The petrophysical evaluation of the Lagunillas 07 reservoir is based on the analysis of 1176 wells and two cores of combined length of 390 feet in the Lagunillas Formation. Detailed log-core correlations were conducted and were based on conventional and special core analysis, detailed sedimentilogical description of the core and X-Ray diffraction analysis of core samples. The Lagunillas Formation lithologically is comprised of interbedded sandstones and shales. The sandstone facies are predominantly medium to fine grained varying in porosity range from 26-32% and 6-11% respectively. Some bioturbation is present in the medium grained facies. The matrix is predominantly quartz with detrital potassium feldspars and metamorphic fragments. 
+ The petrophysical parameters tortuosity factor (a), cementation exponent (m) and desaturation exponent (n) were derived directly from core analysis and 
+confirmed by log crossplot analysis. Formation water resistivities (Rw) were derived from formation water analysis and confirmed by Rwa analysis in 30 wells that intersected a clearly defined OWC. 
+    A sensibility study was carried out on Simandoux and Indonesia water saturation models. The later proved to be a better fit when compared to production data and was used exclusively in the petrophysical evaluation. Permeability (K) prediction in the reservoir was achieved by direct correlation of conventional core results and log results to produce a function of the type 
+Log (K)  = A* φ + B ……………………………………(1) 
+where A and B  are constants. Permeability prediction by the above equation was confirmed by the excellent overlay with the advance of the water front fingers. 
+Tracking the Waterflood Front 
+  Using evaluation techniques outlined by Satter and Thakur 3,  4, 5 and Willhite6 , 
+Bwiw  = Boqo + Bg (Rp – Rs) qo + Bwqw …………….……(2) 
+rob = {[5.615 icw E] / [π φ h sg ]}0.5 ………………………(3) 
+rWb = rob{[ sg ] / [swbt – siw]}0.5 ……………………..…….(4) 
+the reservoir injection efficiency was calculated to be 89.5%. The outer radius of the oil bank was 7,828 meters while that of the water bank radius was 2,939 meters as of December 1999. These results were based on an average water saturation of 63% behind the waterfront, a connate water saturation of 16%, an initial gas saturation of 6.6% and a volumetric swept efficiency of 62.6%. 
+Water fingering is due to the effect of properties such as mobility ratio and permeability variation. Methods for tracking a waterflood front include taking the difference between successive seismic surveys7, integrated genetic facies modeling 8, oil water contact (OWC) movement 9 , transient pressure intepretation10, and production logging intepretation11. In the absence of successive seismic surveys and integrated genetic facies modeling, the void replacement movement was used to calculate the OWC movement. At initial conditions, the OWC contact was only available in a few wells.  
+  Using regression analysis, the relationship between the top of the reservoir and the original OWC was represented by the equation 
+OOWC = 1.036465 (TOP) + 182.94993 …………….(5) 
+This equation had an R2 adjusted of 99.1%. By 1999, voidage replacement showed that 32.2ft of the net oil 
+This is the end of page 2<
+This is the beginning of page 3
+sand had been flooded. In some of the wells, however, perforations above this level were found to be watered out, suggesting fingering, channeling or leaks. A water control diagnostic12 of the wells shows that some of them were experiencing high permeability multi-layer channeling. Figures 8 and 9 show the log-log plot of WOR and WOR’ versus time for wells LL-553 and LL-318 respectively. 
+ The actual location of the waterflood front was therefore determined from production data. Producing wells with more than 90% watercut and oil production rates of 50 stb per day were designated as water flooded wells. Wells with producing gas oil ratio (Rp) greater than 5,000 scf/stb were designated as gassed out wells. Non-producing wells, which had been closed because of high sand production or mechanical problems, were filtered out. The watercut and producing gas oil ratio data in the few months before shut in were used to classify the wells. 
+  Figures 10 to 14 show the watercut trends across the reservoir from 1980 to 1999. The water fingers are very clear and tended to drift northwards from the injector wells. Figure 15 shows a permeability map while Figure 16 shows the front of the waterflood in 1997. An overlay of the permeability map and the watercut maps as shown in Figure 17 indicate that the movement of the waterflood front and the fingers occurred along the most permeable zones. There exist a very good match between the zones of high permeability and the area swept by the advancing flank waterflood front. 
+The Impact of the Flank Waterflooding. 
+The flank waterflooding had an impact on the drive mechanism, producing gas oil ratio, fluid production rates and average reservoir pressure. A material balance of the reservoir shows that in 1984, fluid expansion was responsible for 31.25% of the reservoir energy while pore volume compressibility and water influx were responsible for 35% and 33.75% respectively. By December 1999, the share of reservoir energy by fluid expansion had fallen to 10.6% while water injection accounted for 29%. Pore volume compressibility and water influx accounted for 22.4% and 38% respectively. Figure 18 show the change in the drive mechanism for the reservoir from 1926 to 1999. 
+The producing gas oil ratio remained stable at 600 scf/stb until 1984 when the waterflood began. Then, it increased to about 1,600 scf/stb in 1990. This seems to indicate that the injected water was not replacing the reservoir void. The producing gas oil ratio decreased after 1990 signifying perhaps that fillup was occurring. Figure 19 shows a straight-line plot of the cumulative total fluid versus the cumulative water injected. The slope further supports the hypothesis that fillup was taking place during this period.13 
+The flank waterflooding also increased oil production, The average oil production rate dropped from 40,000 stb 
+per day in 1984 to 27,500 stb per day in 1992 as a result of the watering out and shut in of some perforations in the La Rosa and Lagunillas Inferior units. The execution of a repair and recompletion program, following a review of the waterflood, increased daily oil production rates. By 1999, the rate had increased to 50,000 stb per day. One of the principal objectives of the latest integrated study of the reservoir was therefore to determine how much of the increased oil production could be attributed to the flank waterflooding. 14, 15, 16 
+The Net Gain from the Flank Waterflooding. 
+Using decline analysis, the remaining oil reserves (1999-2019) was 198.2 million bbls. The oil displaced from the water bank zone prior to and after the waterflooding can be determined with the aid of reservoir performance predictions. Using decline analysis techniques, as shown in Figures 20 and 21, the net oil gain by the flank waterflooding was 16.9 million bbls (1984-1999). A net oil gain of 160.03 million bbls is expected by 2019, if the flank waterflood is continued. This assumes that the optimal reservoir efficiency is maintained by keeping a balance between withdrawal and voidage replacement fluid rates in the reservoir.  
+The primary oil recovery is 36.7% based on the reservoir performance predictions. The flank waterflood contributes a secondary recovery of 3.8%. The total ultimate recovery (2019) is therefore 40.5%. On the basis of these results and the location of the present OWC, the shifting of the injection line northwards is recommended. Four more injection wells near the present OWC are recommended. The water injection rates are to be optimized to maintain a balance with fluid withdrawal. The injection wells are to be located so that the volumetric sweep efficiency would be optimized and the fingering reduced. Re-perforations are recommended above the present OWC wherever possible. The watered out zones are recommended for abandonment. 
+Conclusions. 
+The potential benefit of the flank waterflooding in the Lagunillas reservoir is 4% of the initial oil in place. The net oil gain during the 1984-1999 period was 17 million bbls. The waterflood front showed fingering due to reservoir heterogeneity. The waterflood front moved more rapidly in high permeability zones. The production data was used to determine the actual movement of the waterbank front. A new set of injection wells, nearer the present oil water contact, is recommended. A net oil gain of 160 million bbls is expected from the flank waterflood by 2019. 
+This is the end of page 3<
+This is the beginning of page 4
+Nomenclature. 
+Bw = Water formation volume factor, RB/STB iw = Injection rate, STB/D 
+Bo = Oil formation volume factor, RB/STB 
+qo = Oil production rate, STB/D 
+Bg = Gas formation volume factor, RB/scf 
+Rp = Producing gas oil ratio, scf/STB 
+Rs = Solution gas oil ratio, scf/STB 
+qw = Water production rate, STB/D 
+ob 
+r= Outer radius of the banked oil, ft 
+Wb 
+r= Water bank radius, ft 
+icw = Cumualative water injected, bbl 
+ = injection efficiency 
+ = Porosity, fraction 
+ = Net  oil sand thickness , ft 
+sg = Gas saturation at start of injection 
+swbt = Average water saturation behind front 
+siw = Connate water saturation, fraction 
+OOWC = Original oil water contact, ft.ss. 
+TOP = Depth of top of reservoir, ft.ss. 
+References 
+Moretti, F. J. and Leung, S. K.: ¨Reservoir Geology of the Lagunillas Inf-7 Reservoir, Bolivar Coastal Field, Lake Maracaibo, Venezuela.¨ Exxon production Research Company, EPR.102.PS82. Oct. 1982. 
+Shagroni, M. A., Boberg, T. C., Gonzalez, J. A. and Matheus, L.E. : ¨LL-7 Reservoir Engineering Study.¨ Exxon, Production research Company, 1982. 
+Satter,A. and Thakur, G. C.: ¨Integrated Petroleum Reservoir Management – A Team Approach.¨ Penn Well Books, OK. (1994). 
+Satter,A. and Thakur, G. C.: ¨Integrated Waterflood Asset Management.¨ Penn Well Books, OK. (1998). 
+Thakur, G. C.: ¨Waterflood Surveillance Techniques-A Reservoir Management Approach.¨ JPT (Oct. 1991) 1180-87. 
+Willhite, G. P.: ¨Waterflooding¨SPE Textbook Series, Volume 3 (1986). 
+Dunlop, K. N. B., Geoffrey, A. K. and Breitenbach, E. A.: ¨Monitoring Oil/Water Fronts by Direct Measurements.¨ JPT (May 1991), 592-602. 
+Ahmed, A. E., Murthy, R. V. S., Bharkatya, D. K. and Sengupta, T. K..; ¨ Optimization of Water Injection in a Sandstone Reservoir : A Successful Case Study.¨ paper SPE 39554 presented at the 1998 India Oil and Gas Conference and exhibition, New Delhi, India, Feb. 17-19. 
+Mamgai, D.C., Lehmbar, S., Rangaraj, S. and Singh, D.; ¨ Improving Recovery Through Peripheral Waterflood Management in a Multilayered Reservoir.¨ paper SPE 39561 presented at the 1998 India Oil and Gas Conference and exhibition, New Delhi, India, Feb. 17-19. 
+Anbarci, K., Grader, A. S. and Ertekin, T.; ¨ Determination of Front Locations in a Multilayer Composite Reservoir.¨ paper SPE 19799 presented at the 1989 64th SPE Annual Technical Conference and exhibition, San Antonio, Oct. 8-11. 
+Verma, S. C., Madhavan, S., Roy, N. M. and Banerji, S.; ¨ Tracking Waterflood Front Movement Using Production Logging and cross Correlating with Individual Layer permeabilities in Stratified Reservoirs – A Case Study¨ paper SPE 39555 presented at the 1998 India Oil and Gas Conference and exhibition, New Delhi, India, Feb. 17-19. 
+Chan, K. S.: ¨ Water Control Diagnostic Plots¨ paper SPE 30775 presented at the 1995 SPE Annual Technical Conference and Exhibition, Dallas, Oct. 22 - 26. 
+Craig F. F. Jr.: ¨The reservoir Aspect of Waterflooding.¨ SPE Monograph, Volume 3, (1993). 
+Callaway, F. H.: ¨Evaluation of Waterflood Prospects.¨ JPT (Oct. 1959) 11-16. 
+Talash, A. W.: ¨An Overview of Wqtaerflood Surveillance and Monitoring.¨ JPT (Dec. 1988), 1539-43. 
+Rose, S. G., Buckwater, J. F. And Woodhall, R. J.: ¨The Design Engineering Aspects of Waterflooding.¨ Spe Monograph, Volume II (1989). 
+Oil Flowrate bpd Water Cut % Time (years) 
+Fig.1- Daily Oil Production and Watercut. 
+This is the end of page 4<
+This is the beginning of page 5
+0 50 100 150 200 250 300 1984 1985 1986 1987 1988 1989 1990 1991 1992 1994 1995 1996 1997 1998 1999 TIME (years) Injection Rate (mbpd) 
+Fig.2 – Water Injection Rate (mbpd) 
+Fig.3 –Average Reservoir Pressure vs. Time 
+PPrreessssuurree 11998800 
+Fig.4 – Pressure Distribution Map (1980) 
+PPrreessssuurree 11998844 
+Fig.5 – Pressure Distribution Map (1984) 
+This is the end of page 5<
+This is the beginning of page 6
+PPrreessssuurree 11999955 
+Fig.6 – Pressure Distribution Map (1995) 
+Fig.8 – Water Control Diagnostic Plot, LL-553 
+PPrreessssuurree 11999988 
+Fig.7 – Pressure Distribution Map (1998) 
+Fig.9 – Water Control Diagnostic Plot, LL-318 
+This is the end of page 6<
+This is the beginning of page 7
+WWaatteerrccuutt 11998800 
+Fig.10 – Watercut Distribution Map (1980) 
+WWaatteerrccuutt 11998844 
+Fig.11 - Watercut Distribution Map (1984) 
+WWaatteerrccuutt 11999900 
+Fig.12 – Watercut Distribution Map (1990) 
+WWaatteerrccuutt 11999955 
+Fig.13 - Watercut Distribution Map (1995) 
+This is the end of page 7<
+This is the beginning of page 8
+WWaatteerrccuutt 11999999 
+Fig.14 - Watercut Distribution Map (1999) 
+Fig.16 - Waterflood Front (1997) 
+PERM Fig.15 - Permeability Map 
+This is the end of page 8<
+This is the beginning of page 9
+PERMEA 
+Fig.17 - Overlay of Permeable Zones and Waterflooded Zones 
+Fig.18 – Drive Mechanisms 
+1000 1100 1200 1300 1400 1500 1600 1700 1800 0 100 200 300 400 500 600 Cumulative Water Injected (mmbbls) Cumulative Fluid Produced (mmbbls) 
+Fig.19 – Cumulative Fluid Produced vs. Cumulative Water Injected 
+This is the end of page 9<
+This is the beginning of page 10
+Fig.20 - Net Oil Gain from Waterflood (1984-1999) 
+Fig.21 - Net Oil Gain from Waterflood (1984-2019) 
+This is the end of page 10<

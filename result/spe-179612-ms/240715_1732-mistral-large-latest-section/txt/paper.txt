@@ -1,0 +1,213 @@
+This is the beginning of page 1
+SPE-179612-MS 
+Improved Oil Recovery Through Unsteady Waterflooding Conditions-Cyclic Waterflooding Application in Tiguino Field, Ecuador 
+M. A. Munoz, and M. V. Rivadeneira 
+Copyright 2016, Society of Petroleum Engineers 
+This paper was prepared for presentation at the SPE Improved Oil Recovery Conference held in Tulsa, Oklahoma, USA, 11–13 April 2016. 
+This paper was selected for presentation by an SPE program committee following review of information contained in an abstract submitted by the author(s). Contents of the paper have not been reviewed by the Society of Petroleum Engineers and are subject to correction by the author(s). The material does not necessarily reflect any position of the Society of Petroleum Engineers, its officers, or members. Electronic reproduction, distribution, or storage of any part of this paper without the written consent of the Society of Petroleum Engineers is prohibited. Permission to reproduce in print is restricted to an abstract of not more than 300 words; illustrations may not be copied. The abstract must contain conspicuous acknowledgment of SPE copyright. 
+Abstract 
+This paper describes the analysis and positive results of injecting water, from constant to discontinuous rates in a reservoir under a high water cut stage. By following and improving waterflooding surveillance applications it was possible not only to describe the kind of reservoir, but also to keep the water cut up for a longer time. The goal of this study is to demonstrate the powerful benefits of applying and improving the surveillance plots that are available in the existing literature. The pore volumes injected plot, which was enhanced in this study by adding the injection rates per well in a secondary Y axis, was a powerful tool to identify the water cut behavior. 
+One of the two injector wells of the field was shut in for about 5 months and returned to its water injection conditions for 7 months. These events are presented in three phases. The first is related to the reservoir characterization achieved before the injector shut in. The second includes the well responses observed and monitored during the injector shut in. And, the third illustrates the promising reservoir results after the injector shut in. As well, an economic model is also developed. 
+As a result of the field events, analysis, and results described in this paper, the reservoir water cut was stable for a longer time in comparison with the whole life of the IOR project. In addition the increase Estimate Ultimate Recovery was 304,968 bbl for 8 years, the net present value of the field increased to 24%, and the average operating cost was reduced to 2.49 USD/bbl from 2015 to 2022. 
+The cyclic waterflooding existing literature supports reservoir characterization, analysis and results achieved in Tiguino Field. The initial application monitored in Ecuador will be helpful to be considered as a first approach for starting an IOR optimization in similar stratified reservoirs. The results obtained in Tiguino field are helpful not only as a real example but also as a statistical support for cyclic waterflooding. The Tiguino case experience would be extrapolated to other fields worldwide. 
+Introduction 
+Lower Napo T reservoir in Tiguino Field has been producing with conventional waterflooding since 2006. The IOR project has two injector wells Tiguino 05WIW and Tiguino 11WIW. From these two injectors, since Tiguino 11WIW was added to the IOR project, the water cut of the reservoir increased notably. Mainly due to this well, the breakthrough of some wells was reached quickly. Based on salinity values of 
+This is the end of page 1<
+This is the beginning of page 2
+the majority of the producers, the injected water was basically circulating. Therefore, the IOR project at this time was only helpful to maintaining the reservoir pressure. 
+As a result, by applying and optimizing the surveillance plots that are available in the existing literature, it was possible to identify a particular trend behavior in the reservoir water cut. There were some periods of time where the water cut of the reservoir was maintained stable. From that moment, the goal was focused on understanding and figuring out the way to extend this water cut behavior. 
+During the Tiguino 05WIW shut in event, interesting responses were observed in the producers. Finally after the return of this well to its steady water injection conditions, some of the producers showed a better oil production performance. Thus, and without additional investment, the water cut of the reservoir kept steadily up for more time in comparison with the whole life of the IOR project. 
+Ciclic waterflooding definition 
+One of the most applied techniques of Improved Oil Recovery (IOR) to increase the primary oil recovery of a reservoir is water injection (Waterflooding). Conventional waterflooding could be defined as the steady water injection conditions where water is injected into the reservoir through one or more injector wells. The goal of injecting water into the reservoir is to maintain the reservoir pressure and to displace residual oil. 
+A cyclic waterflooding technique offers an opportunity when conventional waterflooding does not give additional value. This technique has been applied in many fields in China, the USA, and Russia. 
+This IOR technique consists of injecting water and stopping it in certain periods of time. By applying these unsteady waterflooding conditions, the ultimate oil recovery improves and the water production decreases without making additional investments. The concept behind this technique is that by applying different cycles of waterflooding patterns, which include shutting in an injector well, it is possible that the oil from layers with low permeability is carried into the high permeability layers. This oil movement is finally swept toward the producing wells through the next injection cycle event. 
+Tiguino Field IOR Project Overview 
+Tiguino Field is located in the provinces of Orellana and Pastaza in the jungle of Ecuador as shown in (<>)Fig. (<>)1. The field was discovered by Anglo Ecuadorian OilField Limited by Tiguino 01 well in 1971. The concession includes an area of 269 Km2. In December 2015 there were 9 active wells on the field, which were, Tiguino 01, Tiguino 04, Tiguino 06HZ, Tiguino 07, Tiguino 08, Tiguino 12, Tiguino 13HST2, Tiguino 19 and Tiguino 20. 
+Figure 1—Tiguino Field location 
+This is the end of page 2<
+This is the beginning of page 3
+Lower Napo T reservoir is one of the main producing reservoirs of Tiguino Field. The oil production of this reservoir started in 1990 with the well Tiguino 04. In May 2006 an Improved Oil Recovery (IOR) project started through water injection by converting the producer well Tiguino 05. Later in July 2009, the producer well Tiguino 11 was also changed to an injector well. In September 2014 there were 9 active wells that had been producing from this reservoir, which were the Tiguino 01HZ, Tiguino 02ST, Tiguino 04, Tiguino 06HZ, Tiguino 08, Tiguino 12, Tiguino 13HST2, Tiguino 17 and Tiguino 20 wells. From these 9 wells, the wells that showed direct responses to the waterflooding project were all of them with an exception of Tiguino 04 and Tiguno 20. (<>)Fig. 2 shows the location of all Lower Napo T wells in the base structural map along with the water cut values of the 7 IOR response wells. 
+Figure 2—Lower Napo T wells locations and IOR response wells water cut 
+Oil production 
+The average oil production of the 5 current active wells during 2015 was 1,194 BOPD. This production represents 49% of the total oil production of the field. 
+Drive mechanism and Pr 
+The drive mechanism of Lower Napo T reservoir has been defined as a combination of liquid and rock expansion and solution gas drive ((<>)Fig. 3). This drive mechanism was also confirmed with the reservoir pressure drop ((<>)Fig. 4). Once the waterflooding project through Tiguino 05WIW started, the reservoir pressure of Lower Napo T was maintained. Once Tiguino 11WIW was added to waterflooding project, the reservoir pressure started to increase. 
+This is the end of page 3<
+This is the beginning of page 4
+Figure 3—Lower Napo T reservoir drive mechanism 
+Figure 4—Historical reservoir pressure data 
+It should be mentioned that the pressure at bubble point is 875 psia. In addition since March 2010 no drilling activity has been carried out in the field. 
+Water injection rates historical data 
+(<>)Fig. 5 presents the average water injection rates data of Tiguino 05WIW and Tiguino11WIW injector wells. In August 2015 the total cumulative water injection of both wells was 22.6 million bbl. 
+This is the end of page 4<
+This is the beginning of page 5
+Figure 5—TIG 05 and TIG 11 Historical injection rates 
+As is clearly seen in (<>)Fig. 5, the drops in some points of each well injector data correspond to events of shut-in time. Between Tiguino 11WIW and Tiguino 05WIW, the latter has been the well with more frequent and longer times of shut-in, than Tiguino 11 WIW. It is important to mention that this well was shut-in from September 1, 2014 until January 17, 2015. After this longer shut-in event, it returned to its regular water injection conditions. 
+Tracer project 
+On July 17, 2009 a tracer project was carried out. An amount of tritium was injected and monitored in the injector well Tiguino 05WIW. (<>)Fig. 6 shows the tracer arrival appeared only in Tiguino 01HZ after approximately 7 months. 
+Figure 6—TIG 01HZ arrival tracer response (MEER report 2006) 
+This is the end of page 5<
+This is the beginning of page 6
+Figure 7—TIG 01 and TIG 05WIW stratigraphic cross section 
+Based on the better properties observed in Basal T reservoir in Tiguino 05WIW, it is more likely that the tracer arrival observed in Tiguino 01HZ come from this body. Nevertheless, the injection contribution of Lower Napo T reservoir in Tiguino 05WIW, despite its poor properties, are not dismissed. It is important to remember that Tiguino 11WIW was joined to waterflooding project just 7 days after the tracer was injected in Tiguino 05WIW. 
+Lower Napo T Reservoir – Geological Description 
+Cretaceus stratigraphic units, and reservoirs in Oriente basin 
+The Cretaceous section of the Oriente basin, consists of Hollin and Napo formations and the Basal Tena sandstone, which can be divided into several genetic sequences ((<>)Rivadeneira, M., Almeida, P., 2014), among which are all known reservoirs: Hollín, T, U, M1, and Basal Tena ((<>)Fig. 8). 
+This is the end of page 6<
+This is the beginning of page 7
+Figure 8—Oriente Basin cretaceous stratigraphic sequences and reservoirs 
+Stratigraphic Napo T unit is a third order upper Albian genetic sequence, and is developed between the maximum flooding surfaces of C and B Limestones. This genetic sequence contains T reservoir which is usually divided in two reservoirs which are Upper T and Lower T. 
+The base of T reservoir is generally erosive. In the east and central part of Oriente Basin this marked a maximum regression along with an erosion which could affect T limestone and, in some cases, it can reach the basal Napo shale by creating incised valleys ((<>)Fig. 8), in which, with the raise of sea level, Basal T sandstone is deposited (as defined by (<>)PetroCanada, 1987). 
+Lower Napo T and Basal T stratigraphy 
+Lower Napo T reservoir is developed over an erosive surface, or over the Basal T sandstone (where it appears). Generally it has the best reservoir properties. In Tiguino Field, it is a sandstone with fine grain, varying sometimes to medium. It is deposited in fluvial and tide influenced estuarine environments, represented by fluvial and tidal channels and bars ((<>)Fig. 9). 
+This is the end of page 7<
+This is the beginning of page 8
+Figure 9—Lower Napo T depositional environmets scheme (Allen (1991), Dalrymple et al, (1991) and Pritchard (1967) 
+To the east of the field are located the fluvial facies of Lower Napo T reservoir and to the west the stuarine facies ((<>)Fig. 10). 
+Figure 10—TIG 11WIW, TIG 12WIW, TIG 08 and TIG 06 stratigraphic cross section 
+In (<>)Fig. 10 it is possible to observe the gamma ray log responses according to the depositional environments sheme (channels, bars). It is also seen that the Lower Napo T reservoir in the producers Tiguino 12 and Tiguino 08 has a clean main sand body, while towards the top, develops interbedded sandstones and shales. 
+This is the end of page 8<
+This is the beginning of page 9
+Water injection geological characterization 
+Lower Napo T reservoir in Tiguino 05WIW and Tiguino 11WIW injector wells has no basal clean body and only interbedded sand and shale layers ((<>)Fig. 11). 
+Figure 11—Waterflooding injection scheme 
+The upward and lateral appearance of interbedded sandstones and shales is related to facies evolution, from more proximal to more distal, or lateral from estuarine channels to sand and shale plains. This facies evolution, as was showed before ((<>)Fig. 10), produces the deteriorating of reservoir properties in the same direction. It is important to mention that in the transitional environments there is glauconite, described in some wells located at the west part of the field (Gurpreet S. and Wai Ma, 2003). 
+Given this, it was possible to confirm that Lower Napo T reservoir, has been behaving as a stratified reservoir. 
+Tiguino case study description 
+The Tiguino case study is focused on explaining the events and responses observed before, during and after the 5 month shut in event of Tiguino 05WIW. Therefore the following case description has been divided in three phases. It is important to remember that Tiguino case involves Lower and Basal Napo T reservoirs, and that the majority of the producer wells has perforated intervals in Lower Napo T reservoir. As was exposed before (see (<>)Fig. 11), the first injector well in the field was Tiguino 05WIW, which has perforated intervals in both Lower and Basal Napo T reservoir. The other injector well, Tiguino 11WIW, has perforated intervals only in Lower Napo T reservoir. 
+This is the end of page 9<
+This is the beginning of page 10
+Phase 1 Reservoir characterization before Tiguino 05WIW shut in 
+In order to describe and understand the behavior of Lower Napo T reservoir some surveillance plots at reservoir level were done. The surveillance applications ((<>)Terrado 2006) were taken and improved to achieve this goal. 
+Voidage replacement ratio (VRR) Surveillance plot 
+One of the surveillance plots that helped us to characterize the reservoir was the VRR and Oil Rate versus time plot. This plot is commonly used to identify relationships between these variables ((<>)Fig. 12). 
+Terrado, 2006
+Figure 12—VRR and oil rate vs time surveillance plot () 
+From (<>)Fig. 12, between 168th month (when TIG 11WIW was added to the water injection project – July 2009) and 220th month, when VRR showed a downward tendency, the oil rate increased. It is also noticed that between 220th month (when VRR starts to show an unsteady behavior) and 229th month (that corresponds to the last month of steady injection in August 2014) the oil production trend shows a better declining trend in comparison with the first period of analysis. 
+The second part of analysis in this plot is related to understanding the relationship between the monthly VRR and the field reservoir pressure. During the whole period of time when VRR had values greater than 1 (July 2009 – November 2013) the reservoir pressure increased (see (<>)Fig. 4). That meant there was no out-of-zone injection loss from the target zone or no severe thieving was suspected. When monthly VRR was less than 1 (see last two Pr data registered in 2014 in (<>)Fig. 4), the reservoir pressure trend started to slightly fall. This allowed to confirm no aquifer influx in the studied area. 
+Pore volumes injected (PVI) – Surveillance Plot 
+One of the main plots that was very useful for understanding water cut responses of the reservoir was the PVI plot. By plotting the water cut versus PVI, it is possible to identify the drive mechanism and the 
+This is the end of page 10<
+This is the beginning of page 11
+maturity of an asset ((<>)Terrado 2006). In order to get a complete comprehension of this surveillance plot, the average monthly water injection rates of each injector well was added in a secondary Y axis ((<>)Fig. 13). (<>)Fig. 13 clearly illustrates particular reservoir water cut behavior. There are periods of time when water 
+Figure 13—Pore volumes injected – surveillance plot (after (<>)Terrado 2006) 
+cut was stable or even decreased, and other periods when water cut showed an increase trend. Our target was to understand the injection patterns involved in the stabilized water cut periods. 
+The novel idea of adding the injection rates per well was very useful for visualizing probable water channeling which mainly occurred from the point that Tiguino 11WIW was added to Tiguino 05WIW as another injector well. This is clearly observed between 0.023 to 0.12 PVI values. During this period of time, a direct relationship between the water cut increase trend and the injection rates patterns of Tiguino 11WIW is observed. This relationship is also confirmed between 0.16 to 0.18 PVI values (dashed horizontal light blue lines) 
+In contrast, from January to August 2014 (0.18 – 0.20 PVI values), the water cut shows a steady trend period. Even though, in this third period of time, the water injection rates of Tiguino 11WIW increased, the unsteady injection rates of Tiguino 05WIW played an even more important role. 
+From Tiguino 05WIW shut-in time (0.20 to 0.21 PVI values) to its return to its steady injection conditions (0.21 to 0.23 PVI values) the reservoir water cut remained stable longer. 
+As is clearly supported, the enhanced pore volumes injected (PVI) plot was a powerful tool to identify the reservoir water cut behavior. 
+Log of WOR –Surveillance plot 
+(<>)Fig. 14 illustrates the log of Water Oil ratio (WOR) versus cummulative oil production (Np) plot that is used as an indicator of reservoir channeling and heterogeneity ((<>)Baker 1998). 
+This is the end of page 11<
+This is the beginning of page 12
+Baker 1998
+Figure 14—Log of WOR vs Np –surveillance plot () 
+(<>)Fig. 14 illustrates a close similarity between Lower Napo T reservoir response and the pattern behavior suggested by the author. This comparison allowed us to confirm that Lower and Basal Napo T reservoirs were behaving as a layered or stratified reservoir (see (<>)Fig. 10). Regarding the breakthrough of different layers, pointed out also by the author, these responses could be supported by the heterogeneity observed in the injector wells (see (<>)Fig. 11). 
+Phase 2 Well responses during Tiguino 05WIW shut in 
+During Tiguino 05WIW shut in (September 2014 to January 2015) some well responses such as salinity measurements and bottom hole pressures (BHP) were monitored and analyzed. 
+BHP well response 
+During Tiguino 05WIW shut in there were only 3 producer wells that had their BHP sensors working. These wells were Tiguino 06HZ, Tiguino 12, and Tiguino 08. Once Tiguino 05WIW was shut in in September 2014, the BHP of Tiguino 06HZ began to fall ((<>)Fig. 15). The rest of the wells did not show important BHP changes. During Tiguino 05WIW shut in water salinity measurements of Tiguino 06HZ also changed ((<>)Fig. 16). 
+This is the end of page 12<
+This is the beginning of page 13
+Figure 15—TIG 06HZ BHP response and production data 
+Figure 16—TIG 06HZ salinity response 
+As is clearly seen in (<>)Fig. 15, the BHP of Tiguino 06HZ began to stabilize after three months of Tiguino 05WIW shut in. This response allowed to confirm that Tiguino 11WIW floodfront was able to support the BHP of Tiguino 06HZ. It is important to mention that the distance between Tiguino 11WIW and Tiguino 06HZ is 1,400m. 
+In addition, (<>)Fig. 16 illustrates that, during unsteady injection rates of Tiguino 05WIW and also at the end of Tiguino 05WIW shut in, salinity variation responses were observed in Tiguino 06HZ. 
+This is the end of page 13<
+This is the beginning of page 14
+WOR vs. Np well response 
+During Tiguino 05WIW shut in, Tiguino 01HZ, Tiguino 02ST, and Tiguino 06HZ wells showed a WOR downward trend. (<>)Fig. 17 illustrates the WOR vs Np plot for Tiguino 06HZ well. 
+Figure 17—TIG 06HZ WOR vs Np response 
+Phase 3 Reservoir results after Tiguino 05WIW shut in 
+The last part of Tiguino case analysis was carried out between January 17, 2015 (when Tiguino 05WIW returned to its steady water injection conditions) and August 31, 2015 (when the IOR project was last monitored). 
+Oil Cut vs Np 
+In order to have a better visualization of the results, that not only occurred after Tiguino 05WIW shut in but also during the entire IOR project, it is not neccesarily to look further than the Oil Cut versus Np plot ((<>)Fig. 18). 
+This is the end of page 14<
+This is the beginning of page 15
+Figure 18—Oil cut – reservoir results 
+As is showed in (<>)Fig. 18, the Oil cut (which could be considered similar to oil rate) optimization results are positive. Oil rate optimization is clearly seen from the middle period of unsteady injection rates of Tiguino 05WIW (yellow circle markers) until its return (light blue circle markers). (<>)Fig.18 also includes the average injection rates per well (MBLS) corresponding to each selected period. 
+As is evident, Oil cut vs Np plot became a powerful tool to see the reservoir results after Tiguino 05WIW shut in. It should be mentioned that Tiguino 06HZ well was mainly responsible for the good reservoir results. 
+Tiguino case and their resemblance with cyclic waterflooding technique 
+As was mentioned before, cyclic waterflooding is a technique of injecting water and stopping it during certain periods of time. Cyclic Waterflooding existing literature supports the reservoir characterization, response analysis and results achieved in Tiguino Field. 
+Field Results 
+As it was mentioned before, the explained events occurred in Tiguino field contributed to the reservoir water cut stabilization and as a consequence the oil production of the reservoir improved. 
+Estimate ultimate recovery (EUR) results 
+In order to observe the impact of the described events in Tiguino field, two oil rate forecasts were achieved ((<>)Fig. 19). One oil rate forecast was estimated before Tiguino 05WIW shut in (September 2015) and the other after this shut in event (January 2015). 
+This is the end of page 15<
+This is the beginning of page 16
+Figure 19—Field oil production results 
+The increase EUR between the two oil rate forecast (before and after Tiguino 05WIW shut in) is 304,968 bbl calculated until December 2022. 
+It is important to mention that the oil rate forecast calculated after Tiguino 05WIW shut in, was matched with real production data until December 2015. It should be mentioned that December 2022 is the company contract due date with the Ecuadorian government. 
+Oil recovery factor (RF) results 
+The increase EUR of 304,968 bbl represents an increase in the oil recovery factor (RF) of 0.42%. 
+Economics Results 
+One economic model was developed to visualize the economic impact of the described events in Tiguino field (before and after Tiguino 05WIW shut in). 
+Model Assumptions 
+9 active wells on the field (please refer to page 2) 
+The oil rate forecast estimated before and after Tiguino 05WIW shut in event 
+The water forecast before and after Tiguino 05WIW was considered the same 
+Zero additional investments 
+Incomes 
+The fare per barrel from the year 2015 to 2022 ((<>)Table 1). 
+This is the end of page 16<
+This is the beginning of page 17
+Table 1—Fare per barrel assumption 
+Years ,2015 ,2016 ,2017 ,2018 ,2019 ,2020 ,2021 ,2022 
+Fare per barrel (USD) ,30.57 ,30.62 ,30.77 ,30.93 ,31.08 ,31.24 ,31.39 ,31.55 
+
+Variable costs 
+Total oil operating cost 4.77USD/bbl (it includes not only variable cost but also fixed and administrative cost) 
+Water cost per barrel is 0.12USD/bbl 
+Economics Field results 
+(<>)Table 2 illustrates the economic results regarding the increase oil production achieved after the described events in Tiguino field. 
+Table 2—Economic Field Results 
+Cases ,Cummulative cash flow (MUSD) ,ECONOMIC FIELD RESULTS ,
+,,NPV at 15% discount rate (MUSD) ,TOTAL Operating Cost (USD/bbl) 
+Case 1: Before TIG-05WIW shut in ,"26,511 ","28,287 ",25.29 
+Case 2: After TIG-05WIW shut in ,"38,119 ","34,942 ",22.80 
+Case 2 -Case 1 ,"11,608 ","6,655 ",(2.49) 
+
+As is showed in (<>)Table 2, the net present value (NPV) of the field increased in 24% for 8 years with a discount rate of 15%. In addition, the operating cost was reduced in 2.49 USD/bbl. (<>)Fig. 20 illustrates the cumulative cash flow results before Tiguino 05WIW and after Tiguino 05WIW shut in. 
+Figure 20—Cummulative cash flow results 
+This is the end of page 17<
+This is the beginning of page 18
+Conclusions 
+By applying waterflooding surveillance literature plots in Tiguino field, it was possible not only to describe the kind of reservoir, but also to keep the reservoir water cut up for a longer period of time in comparison with the whole life of the IOR project. 
+The enhanced pore volumes injected plot was a powerful tool not only to identify the water cut behavior but also to have a better visualization of the suitable injection patterns for the reservoir. 
+The oil cut versus Np plot, which was very useful for visualizing and monitoring the results achieved in Tiguino field, could be applied to any IOR project worldwide. 
+The initial application monitored in Ecuador will be able to be considered as a first approach for starting an IOR optimization in similar stratified reservoirs worldwide. 
+The results obtained in Tiguino field are helpful not only as a real example but also as a statistical support for a cyclic waterflooding technique. 
+Aknowledgments 
+Andres Munoz thanks the Munoz Briones family and Susana Jacome for their unconditional care, love and support. The authors acknowledge Petrobell Grantmining manager, Nelson Vargas, for giving the authorization to present this paper and the Planning Department for their support regarding the economic model. 
+Nomenclature 
+Latin Letters 
+BHP ,"bottom hole pressure, psia "
+DCA ,decline curve analysis 
+EUR ,"estimate ultimate recovery, bbl "
+IOR ,improved oil recovery 
+Np ,"cummulative oil production, bbl "
+NPV ,"net present value, MUSD "
+Pr ,"reservoir pressure, psia "
+PVI ,"pore volumes injected, fraction "
+RF ,"recovery factor, percentage "
+VRR ,"voidage replacement ratio, percentage "
+WCut ,"water cut, percentaje "
+WOR ,water oil Ratio (dimensionless) 
+
+Greek Letters 
+ NPVdelta net present value 
+Subscripts 
+HZ horizontal well 
+ST2 side track well 
+References 
+Terrado, M., Yudono, S., and Thakur, G.: Waterflooding Surveillance and Monitoring: Putting Principles Into Practice, 2006, SPE Annual Technical Conference and Exhibition, San Antonio, TX 
+Baker, R.: Reservoir Management of Waterfloods – Part II, January 1998, JCPT 
+Langdalen, H.: Cyclic Water Injection – A Simulation Study, June 2014, Norwegian University of Science and Technology 
+This is the end of page 18<
+This is the beginning of page 19
+Shiripanov, A.A., Surguchev, L.M., Jakobsen, S.R.: Improved Oil Recovery by Cyclic Injection and Production, 2008, SPE Russian Oil & Gas Technical Conference and Exhibition, Moscow, Russia 
+PetroCanada: The Eastern Oriente Basin in Ecuador. Petroleum Geology & Hydrocarbon Potential, 1987 
+Rivadeneira, M., Almeida, P.: Características de los Reservorios Cretácicos de la Cuenca Oriente, 2014, La Cuenca Oriente Geología y Petróleo, pp. 279–326, Quito, Ecuador 
+Thakur, G.C., Satter, A.: Integrated Waterflood Asset Management, 1998, PennWell Publishing Co. 
+Tracer Report, Ministerio de Electricidad y Energía Renovables (MEER), 2009 
+This is the end of page 19<

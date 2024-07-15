@@ -1,0 +1,34 @@
+TABLE 3-HEWITT ,POLYMER 1972 ,PROJECTS 1977 ,1979 
+Injectors treated ,4 ,9 ,10 
+Producers monitored ,11 ,21 ,23 
+Number of producers responding ,6 ,14 ,14 
+"Average injection pressure, psig ",,,
+Before ,210 ,240 ,274 
+After ,595 ,650 ,780 
+"Treatment size,lbm polymer ","15,500 ","29,600 ","33,000 "
+bbl water ,"87,000 ","182,000 ","189,000 "
+"Incremental recovery, bbl oil ","115,000 ","130,000 ","33,000 "
+bbl/acre-ft ,32 ,16 ,6.5 
+"Cost, $ thousand ",37.5 ,135 ,115 
+
+streaks in the Chubbee sand and corresponding water diversion. 
+The polymer projects have been credited with increas­ing tract recovery from a 1972 project high of 32 bbl/acre-ft (4125 m3/km2·m) to a low in 1979 of6.5 bbl/acre-ft (838 m 3 /km2 • m). These figures corresond to 20 to 4% of the 162 bbl/acre-ft (20 881 m3/km f·m) projected unit recovery. 
+Producer Stimulation 
+Selective stimulation of producing wells has proved a successful method of improving recovery at the Hewitt Unit. Ninety-seven of the 140 active producers have cemented casing strings that permit the selective fractur­ing of a producing sand. The other active producing wells were drilled during primary development and have two or more uncemented liners through the pay interval, prohibiting selective stimulation. An average stimulation workover consists of six stages in four selected intervals in a producing well. The largest stimulation workover consisted of 13 stages in 10 producing intervals. A stan­dard fracture stage consists of 5,000 gal (18.9 m3) of emulsion-based fluid and 8,800 lbm (3992 kg) of sand. 
+Seventy-one stimulation jobs have been completed from 1972 to the present. Overall, the 71 stimulation jobs have yielded an average first-year gain of 64 BOPD (10.2 m3/d oil). Thirty-five of the fracture jobs were completed by the end of 1973. Criteria for selecting zones for stimulation include: (1) individual sand quali­ty, (2) individual flood performance in relation to other producers, (3) cumulative and current injection rates by zones in offset inputs, and (4) mechanical condition of the wellbore. 
+Artificial Lift Optimization and Selective Testing 
+Existing lift equipment does not have the capacity to pump off all the wells in the unit. Fluid levels are monitored and equipment is moved to maximize fluid· production from the higher oil-cut producing sands. 
+Individual sands have been tested in 15 producing wells to locate watered-out zones or zones needing stimulation. Intervals are tested individually by isolation with bridge plug and packer. Producing well wireline surveys have not been used at the unit for the following reasons. 
+High water-cut production lies outside the accuracy of the tools. 
+The fluid level is below more than half of the pro­ducing zones. 
+It is difficult to run the tool past the submersible pump. 
+Selective testing is expensive in terms of tool rentals, well servicing, and lost production, but the results have shown it to be economical. Selective stimulation treatments of 16 producinŁ zones in 10 wells have yield­ed a 450-BOPD (71.5-m /d) first-year buildup. Addi­tionally, 14 uneconomical zones have been squeeze cemented or blanked off. 
+Drilling 
+In addition to the 122 wells drilled during the start of waterflood operations, nine producers and three injection replacement wells have been drilled. Seven of the pro­ducing wells were successful, one was marginal, and the ninth well gave very little buildup. Cumulative oil pro­duction as of Jan. 1, 1980, from the nine replacement wells was 2.38 MMbbl (378 390 m3) or approximately 265,000 bbl (42 132 m3) per well. Currently the wells produce 600 BOPD (95.4 m3/d oil) or 67 BOPD (10.7 m 3 Id oil) per well. The three injection inputs were drilled to replace wells with mechanical problems that prevented needed injection distribution. Three of the wells drilled during 1974 and 1976 resulted in an in­crease in producing-tract ultimate recovery. The old pro­ducing wells in these tracts were projected to recover 122 bbl/acre-ft (15 725 m3/km2 ·m). The three new wells resulted in an increase in projected recovery of 45 bbl/acre-ft (5800 m 3 /km2 • m) or a total tract recovery of 167 bbl/acre-ft (21 525 m3/km2 ·m). 
+TABLE 4-MULTIPLE PRODUCING PATTERNS vs. REMAINDER OF UNIT, COMPARISON OF PATTERN RECOVERY 
+,Area (acres) ,Number of Producing Wells ,Volume (acre-ft) ,Pattern Recovery ,
+,,,,MMbbl ,bbl/acre-ft 
+Producing Patterns with multiple wells ,466 ,47 ,"79,009 ",17.6 ,223 .l85 
+Remainder of unit ,"2,144 ",93 ,"205,691 ",28.4 ,138 
+Unit total ,"2,610 ",140 ,"284,700 ",46.0 ,162 
+

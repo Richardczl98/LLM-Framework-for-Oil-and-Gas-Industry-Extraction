@@ -1,0 +1,10 @@
+Phase 1 Reservoir characterization before Tiguino 05WIW shut in 
+In order to describe and understand the behavior of Lower Napo T reservoir some surveillance plots at reservoir level were done. The surveillance applications ((<>)Terrado 2006) were taken and improved to achieve this goal. 
+Voidage replacement ratio (VRR) Surveillance plot 
+One of the surveillance plots that helped us to characterize the reservoir was the VRR and Oil Rate versus time plot. This plot is commonly used to identify relationships between these variables ((<>)Fig. 12). 
+Terrado, 2006
+Figure 12—VRR and oil rate vs time surveillance plot () 
+From (<>)Fig. 12, between 168th month (when TIG 11WIW was added to the water injection project – July 2009) and 220th month, when VRR showed a downward tendency, the oil rate increased. It is also noticed that between 220th month (when VRR starts to show an unsteady behavior) and 229th month (that corresponds to the last month of steady injection in August 2014) the oil production trend shows a better declining trend in comparison with the first period of analysis. 
+The second part of analysis in this plot is related to understanding the relationship between the monthly VRR and the field reservoir pressure. During the whole period of time when VRR had values greater than 1 (July 2009 – November 2013) the reservoir pressure increased (see (<>)Fig. 4). That meant there was no out-of-zone injection loss from the target zone or no severe thieving was suspected. When monthly VRR was less than 1 (see last two Pr data registered in 2014 in (<>)Fig. 4), the reservoir pressure trend started to slightly fall. This allowed to confirm no aquifer influx in the studied area. 
+Pore volumes injected (PVI) – Surveillance Plot 
+One of the main plots that was very useful for understanding water cut responses of the reservoir was the PVI plot. By plotting the water cut versus PVI, it is possible to identify the drive mechanism and the 

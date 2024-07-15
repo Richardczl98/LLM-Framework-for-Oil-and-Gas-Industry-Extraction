@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Mar 16, 2024
+python opgee_cli.py -p ./data/zips/spe-114174-ms.zip -m mistral-large-latest -g ./data/val/spe//spe-114174-ms_RZ_v2.xlsx --grouped_by section
+python opgee_cli.py -p ./data/zips/spe-126181-ms.zip -m mistral-large-latest -g ./data/val/spe/spe-126181-ms_RZ_v2.xlsx --grouped_by section
+python opgee_cli.py -p ./data/zips/spe-158716-ms.zip -m mistral-large-latest -g ./data/val/spe/spe-158716-ms_RZ_v2.xlsx --grouped_by section
+python opgee_cli.py -p ./data/zips/spe-191895-ms.zip -m mistral-large-latest -g ./data/val/spe/spe-191895_RZ_v2.xlsx --grouped_by section
+# 196417 cannot be parsed
+# python opgee_cli.py -p ./data/zips/spe-196417-ms.zip -m mistral-large-latest -g ./data/spe/spe-196417-ms_RZ_v2.xlsx --grouped_by section
+# 212005 field name is X, cannot be used.
+# python opgee_cli.py -p ./data/zips/spe-212005-ms.zip -m mistral-large-latest -g ./data/spe/spe-212005-ms_RZ_v2.xlsx --grouped_by section
+python opgee_cli.py -p ./data/zips/spe-217255-ms.zip -m mistral-large-latest -g ./data/val/spe/spe-217255-ms_RZ_v2.xlsx --grouped_by section
+python opgee_cli.py -p ./data/zips/spe-58782-ms.zip -m mistral-large-latest -g ./data/val/spe/spe-58782-ms_RZ.xlsx --grouped_by section
+python opgee_cli.py -p ./data/zips/spe-65473-ms.zip -m mistral-large-latest -g ./data/val/spe/spe-65473-ms_RZ_v2.xlsx --grouped_by section
+python opgee_cli.py -p ./data/zips/spe-88967-ms.zip -m mistral-large-latest -g ./data/val/spe/spe-88967-ms-RZ_v2.xlsx --grouped_by section
+python opgee_cli.py -p ./data/zips/spe-28784-ms.zip -m mistral-large-latest -g ./data/val/spe/spe-28784-ms_RZ_v2.xlsx --grouped_by section

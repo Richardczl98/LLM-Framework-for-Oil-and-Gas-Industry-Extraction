@@ -1,0 +1,20 @@
+Parameter _x000D_,Value _x000D_
+"Average reservoir top depth, m _x000D_",1650 _x000D_
+"Water-oil contact, m _x000D_",-1470 _x000D_
+"Average formation thickness, m _x000D_",29 _x000D_
+"Average effective oil saturation thickness, m _x000D_",7.5 _x000D_
+"Average effective water saturation thickness, m _x000D_",7.6 _x000D_
+"Average porosity, % _x000D_",20 _x000D_
+"Average permeability, md _x000D_",723 _x000D_
+Initial water saturation _x000D_,0.17 _x000D_
+Residual oil-saturation _x000D_,0.31 _x000D_
+"Initial reservoir temperature, °C _x000D_",36 _x000D_
+"Initial reservoir pressure, MPa _x000D_",17.2 _x000D_
+"In-situ oil viscosity, mPa*s _x000D_",8.2 _x000D_
+"In-situ oil density, g/cm3 _x000D_",0.857 _x000D_
+"Oil density at surface conditions, g/cm3 _x000D_",0.885 _x000D_
+Formation volume factor _x000D_,1.105 _x000D_
+"Bubble point pressure, MPa _x000D_",6.5 _x000D_
+"Gas-oil ratio, m3/ton _x000D_",28 _x000D_
+"In-situ water viscosity, mPa*s _x000D_",1.79 _x000D_
+"Water density at surface conditions, g/cm3 _x000D_",1.170 _x000D_

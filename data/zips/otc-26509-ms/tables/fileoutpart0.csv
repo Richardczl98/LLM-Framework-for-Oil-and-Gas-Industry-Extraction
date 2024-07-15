@@ -1,0 +1,5 @@
+Zone _x000D_,NTG (fraction) _x000D_,Gross thickness _x000D_(m) _x000D_,Res Porosity (fraction) _x000D_,GeomMean Perm (mD) _x000D_,HC Pore Vol. Height (m) _x000D_
+Zone 1 _x000D_,0.9 _x000D_,30 _x000D_,0.22 _x000D_,8 _x000D_,3.0 _x000D_
+Zone 2 _x000D_,0.8 _x000D_,21 _x000D_,0.21 _x000D_,4 _x000D_,1.2 _x000D_
+Zone 3 _x000D_,0.8 _x000D_,27 _x000D_,0.20 _x000D_,3 _x000D_,0.9 _x000D_
+Zone 4 _x000D_,0.9 _x000D_,35 _x000D_,0.23 _x000D_,75 _x000D_,3.0 _x000D_

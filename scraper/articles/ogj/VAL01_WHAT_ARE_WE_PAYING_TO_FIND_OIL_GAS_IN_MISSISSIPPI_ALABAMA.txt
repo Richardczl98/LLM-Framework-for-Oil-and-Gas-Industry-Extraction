@@ -1,0 +1,212 @@
+URL: https://www.ogj.com/refining-processing/gas-processing/new-plants/article/17213532/what-are-we-paying-to-find-oil-gas-in-mississippi-alabama
+Title: WHAT ARE WE PAYING TO FIND OIL, GAS IN MISSISSIPPI, ALABAMA?
+Summary: 
+Author: 
+Publication date: May 6, 1990
+Article Content:
+When explorationists look at the oil and gas provinces of Mississippi and Alabama, they must first decide where to commit their risk capital.
+
+The cost per barrel of oil (or gas equivalent) was calculated for all hydrocarbons discovered in Mississippi and Alabama during the six year period from 1981 through 1986. There was some concern that selecting a six year period was too short to produce representative data, but the problem with long term periods is the difficulty in obtaining accurate income and exploration cost numbers.
+
+Also, the time frame selected has often been irreverently referred to as the "crazy" period, bracketing a time of the highest oil prices in history and an active land rig count that reached 4,600, nearly twice the historic average.
+
+And in addition, some explorationists have argued that, with so much available venture capital during this period, many ill-advised and poorly planned wells were drilled, adversely affecting the success ratio.
+
+There is merit to this argument. Yet, in spite of this and the possible cost distortion in a limited six year span, the results appear to be valid enough to be an important factor in future exploration decisions.
+
+The Mississippi-Alabama area was divided into five provinces, and all exploratory wells drilled from 1981 through 1986 were analyzed for costs and new field reserves found. To improve reserve estimates, all development wells drilled through 1987 in these fields were also included.
+
+The five exploration provinces are as follows:
+
+Tertiary Eocene (Wilcox and Sparta formations)
+Mesozoic Upper Cretaceous (Eutaw, Upper and Lower Tuscaloosa formations)
+Mesozoic Lower Cretaceous (Washita-Fredricksburg, Paluxy, Mooringsport, Rodessa, Sligo and Hosston formations)
+Mesozoic Jurassic (Cotton Valley, Buckner-Haynesville, Smackover and Norphlet formations)
+Paleozoic Black Warrior basin (Pennsylvanian and Mississippian formations)
+Exploratory wells in each province were assigned an average cost which included, along with drilling costs, lease acquisition, seismic data where applicable, legal and geological fees. An average completion cost was assigned to each successful development well. Estimates were made of the total recoverable oil and gas reserves for all fields discovered in this period. A conversion factor of 0.178 was used to convert gas to oil, and its reciprocal to convert oil to gas.
+
+
+The cost of finding a barrel of oil or Mcf of gas was then computed by dividing the total exploration and development costs by the recoverable reserves. The recoverable reserves number was reduced to the net value remaining after deducting that portion attributable to the royalty interests and severance taxes. Field operating expenses were not included in the calculations.
+
+TERTIARY EOCENE EXPLORATION EVALUATION
+Tertiary Eocene exploration is limited primarily to that area of the Wilcox formation of southwest Mississippi shown in Fig. 1. Objective zones are generally thin, lenticular sands in depths from 4,500 ft in the northernmost edge of this province to 9,500 ft in the southernmost end.
+
+The largest field discovered between 1981 and 1986 was Clark Creek field which was originally drilled as an Upper Cretaceous test. Reserves are estimated to be 800,000 recoverable bbl of oil. The next largest field discovered was North Green's Bayou with an estimated 375,000 recoverable bbl. Only 14 of 45 discoveries found as much as 100,000 bbl of oil.
+
+During the period of 1981 through 1986, 693 Tertiary exploratory wells were drilled, resulting in 45 new field discoveries for a 6.5% success rate. There were 126 development wells drilled, of which 50 were completed for a 40% success rate. Total recoverable reserves discovered during this period were in excess of 4,000,000 bbl of oil as shown in Table 1.
+
+The average net revenue of each producing well was estimated to be 70% after deducting royalties and severance taxes,
+
+Using these figures a total cost of exploration in the Tertiary Eocene was calculated as follows:
+
+648 exploratory dry holes @ $125,000 each: $81,000,000 45 discoveries @ $250,000 each: 11,250,000
+
+50 development completions @ $205,000 each: 10,250,000
+
+76 development dry holes @ $80,000 each: 6,080,000
+
+Total exploration expenditures: $108,580,000 The actual cost per bbl is calculated as follows:
+
+$108,580,000
+
+4,080,300 bbl x 70% NRI = $38.00/bbl
+
+UPPER CRETACEOUS
+
+EXPLORATION EVALUATION
+
+Exploration in the Upper Cretaceous formations occurs primarily along the updip shelf area of the Mississippi-Alabama salt basin and in the embayment area of southwest Mississippi, as shown in Fig. 1. Objective zones range from about 4,000 feet in the Upper Tuscaloosa formation to 13,500 ft in the lower Tuscaloosa embayment area of Amite and Wilkinson counties, Miss. These zones are often thick sands with excellent porosities and permeabilities.
+
+Of 22 Upper Cretaceous discoveries in the 1981-1986 period, all but Foshee were located in Mississippi. Foshee, however, may be one of the most significant, with estimated reserves of 4,000,000 bbl. Twenty-two of 236 exploratory wells were new field discoveries, a 9.3% success rate.
+
+A total of 109 development wells were drilled, resulting in 62 completions and 47 dry holes for a 57% success rate. Recoverable reserves are estimated to be approximately 20,000,000 bbl of oil and more than 2.2 bcf of gas as shown in Table 2.
+
+Using these figures we arrive at a total cost of exploration in the Upper Cretaceous as follows:
+
+214 exploratory dry holes @ $275,000 each: $58,850,000
+
+22 discoveries @ $450,000 each: 9,900,000
+
+62 development completions @ 350,000 each: 21,700,000
+
+47 development dry holes @ $275,000 each: 12,925,000
+
+Total exploration expenditures: $103,375,000
+
+The actual cost per barrel is calculated as follows:
+
+2,225,000 mcf x 0.178 = 396,050 bbls equivalent + 19,710,000 bbl
+
+Total reserves: 20,106,850 bbl
+
+$103,375,000
+
+20,106,850 bbl x 75% NRI = $6.85 per barrel
+
+LOWER CRETACEOUS EXPLORATION EVALUATION
+Exploration in the Lower Cretaceous age formations is concentrated largely in the Mississippi-Alabama salt basin as shown in Fig. 1. Objective depths range from 6,500 ft to 18,000 ft in the center of the basin. Both oil and gas are found in these formations, with gas generally encountered in the deeper portions of the basin.
+
+The major producing zones are found in sands of the Washita-Fredricksburg, Paluxy, Mooringsport, Rodessa, Sligo and Hosston formations. One significant exception to all clastic reservoirs in the Lower Cretaceous is the James limestone (of probable Rodessa age) which produces natural gas and oil in the southern portion of the salt basin.
+
+The most significant discovery during the 1981-1986 period was Poplarville field in Pearl River County, Mississippi, with gas reserves of an estimated 150 bcf.
+
+During this same period 153 Lower Cretaceous exploratory wells found 22 new fields for a 14% success rate. Development success in these new fields was 60% with 74 of the 123 wells drilled being completed.
+
+Total recoverable reserves from these 22 fields are estimated to be more than 6,000,000 bbl of oil and 220 bcf of gas as shown in Table 3.
+
+In calculating barrels of recoverable reserves attributable to the working interest owners, a factor of 75% was used after deducting that portion attributable to royalties and severance taxes. Total cost of exploration in the Lower Cretaceous is calculated as follows:
+
+131 exploratory dry holes @ $800,000 each: $104,800,000
+
+22 discoveries @ $1,000,000 each: 22,000,000
+
+74 development completions @ $800,000 each: 59,200,000
+
+49 development dry holes @ $650,000 each: 31,850,000
+
+Total exploration expenditures: $217,850,000
+
+The actual cost per barrel is calculated as follows:
+
+221,420,000 Mcf x 0.178 = 39,412,760 bbl equivalent + 6,182,300 bbl
+
+Total reserves: 45,595,060
+
+$217,850,000
+
+45,595,060 bbl x 75% NRI = $6.37/bbl
+
+JURASSIC EXPLORATION EVALUATION
+Most exploratory drilling for Jurassic age Cotton Valley sands, Smackover limestone and Norphlet sandstone is carried out on the udip shelf area of the Mississippi-Alabama salt basin as shown in Fig. 1. Objectives range in depth from 10,000 to 22,500 ft, with oil production generally occurring in the shallower, updip areas and the natural gas and gas condensate reservoirs found in the deeper and basinward areas.
+
+During the 1981-1986 period 339 exploratory wells drilled to these Jurassic objectives resulted in 33 new field discoveries, a 9.7% success rate.
+
+Of these new discoveries, 20 were located in Alabama. More than two-thirds were in the South Alabama area of Monroe and Escambia Counties.
+
+Most of the exploratory wells were drilled to depths of 14,000 to 16,000 ft and established about 14,000,000 bbl of crude oil reserves. Though not impressive, the reserves volume was considerably better than the 2,500,000 bbl that were found in the 13 Mississippi discoveries.
+
+A total of 85 development wells were drilled, of which 41 were successes and 44 were dry holes.
+
+More than 16 million bbl of oil reserves were discovered, along with more than 25 bbl/cu ft of gas as shown in Table 4.
+
+The Norphlet gas fields in the Mobile Bay area were excluded from this report due to lack of data. Certainly if these fields had been included, the cost per barrel would be lower.
+
+Total expenditures in the Jurassic is calculated as follows:
+
+306 exploratory dry holes @ $850,000 each: $260,100,000
+
+33 discoveries @ $1,250,000 each: 41,250,000
+
+41 development completions @ $1,000,000 each: 41,000,000
+
+44 dry development wells @ $650,000 each: 28,600,000
+
+Total exploration expenditures: $370,950,000
+
+The actual cost per barrel is calculated as follows:
+
+25,750,000 Mcf x 0.178 = 4,583,500 bbl equivalent + 16,798,650 bbl
+
+Total reserves: 21,382,150 bbl
+
+$370,950,000
+
+21,382,150 bbl x 75% NRI = $23.13/bbl
+
+PALEOZOIC EXPLORATION EVALUATION
+The Black Warrior basin in northeast Mississippi and northwest Alabama is the primary area of exploration in the Paleozoic age formations as shown in Fig. 1. Objective depths range from 2,000 feet to 6,000 ft, with natural gas (and occasionally oil) being found in Pennsylvanian and Mississippian age deltaic and marine bar sands and some limestone reservoirs.
+
+During the 1981-1986 period, 409 exploratory wells resulted in 50 new field discoveries, a 12% success rate. Thirty-five of these discoveries were in the Alabama portion of the basin and established 135 BCF of gas reserves, nearly four times that found in Mississippi.
+
+Of 362 development wells, a impressive 234 or 65%, were successful. These wells established estimated reserves of 170 bcf of natural gas and 1,800,000 bbl of oil as shown in Table 5.
+
+Total cost of finding these reserves is calculated as follows:
+
+359 exploratory dry holes @ $200,000 each: $71,800,000
+
+50 discoveries @ $300,000 each: 15,000,000
+
+234 development completions @ $200,000 each: 46,800,000
+
+128 development dry holes @ $100,000 each: 12,800,000
+
+Total exploration expenditures: $146,400,000
+
+1,800,380 bbl oil/0.178 = 10,114,494 Mcf equivalent + 171,632,400 Mcf
+
+Total gas reserves: 181,746,894 Mcf
+
+$146,400,000
+
+181,746,894 Mcf x 75% NRI = $1.07 per Mcf gas
+
+CONCLUSION
+In summary, the data from these five provinces show a wide range of cost in the search for hydrocarbons. Costs varied from $1.07 per Mcf of gas in the Paleozoic and less than $7.00 per/bbl of oil in the Upper and Lower Cretaceous to an uneconomical $23.00 per/bbl in the Jurassic and $38.00 in the Tertiary.
+
+Tertiary exploration during this period was an economic disaster. A new field discovery rate of 6.5% and a 40% development success found only 4,000,000 bbl of oil. Explorationists spent nearly $110,000,000 to find the equivalent of about 5,000 bbl of oil for each of the 819 total wells drilled. This turnabout occurred in an area that 15 to 20 years ago was one of the most profitable in Mississippi.
+
+The Jurassic results were only slightly better. In spite of a 9.7% wildcat success and nearly 50% success in development, only 21,500,000 barrels of new reserves were found, and at a cost of $371,000,000. Like the Tertiary, this occurred in the same areas where a few years before many profitable, multi-million barrel fields were round.
+
+About $480,000,000 (more than half of all money spent during this period) found about 25,000,000 bbl of new oil in the Tertiary and the Jurassic. It is difficult to ignore the unpleasant fact that the investor fared poorly in these two provinces.
+
+The problem was the same in both areas: too much money was spent to drill prospects too small to yield significant reserves. Future exploration funds must be spent more wisely and limited to larger prospects with greater potential. But there is also good news in the results. The Paleozoic exploration experienced unquestioned geologic success, and only federal price controls on natural gas kept it from being an unqualified financial success also. If wellhead prices had been allowed to reach the historic six to one ratio with crude oil, the return on the investment would have been commensurate with the Upper & Lower Cretaceous.
+
+And finally, the results further demonstrate that the Upper and Lower Cretaceous provinces are the "bread and butter" areas of Mississippi and Alabama. Oil finding costs of less than $7.00 per bbl make these provinces competitive with most other areas in the Mid Continent and Gulf Coast regions.
+
+So, let us build on our successes and not be discouraged by our failures. We must sharpen our skills by improved application of basic concepts, refinement of present technology, better coordination of geological and geophysical data, and perhaps most important of all, more imaginative thinking.
+
+These are the tools that can reverse escalating finding costs in provinces like the Tertiary and Jurassic.
+
+It is well to remember that one or two significant discoveries will dramatically reduce these finding costs and restore exploration interest and optimism to all of our provinces.
+
+ACKNOWLEDGMENT
+Special thanks to Brad Truett of Morrow Oil & Gas Co.
+
+BIBLIOGRAPHY
+AAPG Annual Exploration Reports, 1981 through 1986.
+
+Records of Alabama and Mississippi Oil and Gas boards.
+
+Mississippi Geological Society Oil and Gas Field Reports, Vol. III
+
+Copyright 1990 Oil & Gas Journal. All Rights Reserved.

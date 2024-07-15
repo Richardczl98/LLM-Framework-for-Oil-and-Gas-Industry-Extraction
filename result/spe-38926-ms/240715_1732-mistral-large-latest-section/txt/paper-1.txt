@@ -1,0 +1,32 @@
+Ł SPE 38926 
+The Valhall Waterflood Evaluation: A Decision Analysis Case Study 
+R. Martinsen, Amoco Norway Oil Co., SPE, R.M. Kjelstadli, Amoco Norway Oil Co., SPE, C. Ross, Amoco Norway Oil Co., and H. Rostad, Amoco Norway Oil Co. 
+Copyright 1997, Society of Petroleum Engineers, Inc. 
+This paper was prepared for presentalton at the 1997 SPE Annual Technical Conference and Exhibition held in San Antonio. Texas, &-8 Oc1ober 1997 
+This paper was selected for presentation by an SPE Program CommiUee following review of informat,on contained in an abstract submitted by the author(s). Contents of the paper, as presented, have not been reviewed by the Society of Petroleum Engineers and are subjec1 to correction by the author(s). The material, as presented, does not necessarily reflect any position of the Society of Petroleum Engineers, its officers, or members. Papers presented at $PE meetings are subjec1 to publicelton revi-by Edrtonel Committees of the Society of Petroleum Engineers. Electronic reproduction, distribution, or storage of any part of this paper for commercial purposes wŁhout the written consent of the Society of Petroleum Engineers Is prohibited. Permission to reproduce in print is restricted to an abstract of not more than 300 words: illustrations may not be copied. The abstract must contain conspicuous acknowledgment of where and by whom the paper was presented. Write Librarian, SPE, P.O. Box 833836, Richardson, TX 75083-3836, U.S.A., fax 01-972-952-9-435. 
+Abstract 
+This paper is based on the work of a multi-disciplinary team, formed to evaluate the economic potential, with associated risks, of waterflooding the Valhall Field. The evaluation includes selection of facility concept and quantification of probabilistic project economics. The decision analysis is performed using economic models, tornado diagrams, decision trees and monte carlo simulations and presented as cumulative probability functions. The paper outlines the evaluation process from screening to selection of final concept and discusses uncertainties, risks and upside potential associated with waterflooding the Valhall chalk reservoir. This decision risk analysis process gives a simple method for ranking project uncertainties and helps the team to focus on key project drivers which lead to a better understanding of project risks and potential risk mitigation. 
+Introduction 
+The Valhall field is a high porosity naturally fractured chalk reservoir located 290 km offshore, in the southwest comer of the Norwegian North Sea. The field was discovered in 1975, with first oil in October 1982. Production drilling is currently ongoing from 2 drilling rigs, and is expected to result in peak production from Valhall in 1999 from a total of 49 wells. 
+The Original Oil In Place is approximately 2350 mmstb, located in two main reservoir layers, the Tor formation and the Hod fonnation. Owing to the weakness of the high porosity chalk and the very low original net stress, the Tor formation 
+0 Ł 0 Q) "­"' "-a 3 .g CT � "' "O 
+exhibits excef.tional drive energy through pore collapse and Ł g compaction.'· •3 The expected field recovery factor under Ł primary depletion is close to 25%. Ł Ł m 
+2 
+"' 
+4
+. 
+Ł 
+Ł 
+valuable experience and information for evaluating the potential of a full field waterflood at Valhall..,, 
+In 1989, the reservoir pressure declined below the bubble -a­a point in the central areas of the field. A single well water injection pilot was then implemented to give critical "-information on the viability of water injection. Three years of -6 "-pilot operation and subsequent analysis of results gave <O i;j s· (0 "' "" --.J (/) ..,, 
+Although water injection has been studied repeatedly for the en m Valhall field, it has never been found economically attractive. m i,, This is mainly due to the very efficient recovery achieved CD through pressure depletion, which is essentially lost under a i;: pressure maintenance scheme. 'f (!? ..,, <O N Cl) Ł 
+In 1996 a multi-disciplinary study team was formed with the "O Ł objective of evaluating the best economic concept for waterflooding the Tor fonnation. 
+The Study Process 
+The project had the following main objectives: 
+Identify the most attractive development option. 
+Assess economic potential. 
+Recommend future actions on Waterflood. 
+'< i o' 
+Project risk and upside potential were identified as key g decision criteria. The process of decision risk analysis was Ł divided in to four steps (Figure I): Ł "' Ł N "' 
+Step I: Framing the problem. The project team defined the problem and boundaries. The project risks, dependencies,. strategies and development options were identified and models for the project evaluation were established. 
+Step 2: Deterministic Analysis. Having framed the problem, it was important to screen the parameters. This enabled the team to focus and target resources on the key project drivers. 

@@ -1,0 +1,7 @@
+Parameter _x000D_,Symbol _x000D_,HSW _x000D_,LSW _x000D_
+Initial water saturation _x000D_,Swi _x000D_,0.17 _x000D_,0.17 _x000D_
+Residual oil saturation _x000D_,Sor _x000D_,0.31 _x000D_,0.31 _x000D_
+Oil relative permeability at initial water saturation _x000D_,Krowi _x000D_,0.75 _x000D_,0.75 _x000D_
+Water relative permeability at residual oil saturation _x000D_,Krwor _x000D_,0.160 _x000D_,0.062 _x000D_
+Corey exponent for water _x000D_,Nw _x000D_,0.35 _x000D_,0.35 _x000D_
+Corey exponent for oil _x000D_,No _x000D_,0.95 _x000D_,0.95 _x000D_

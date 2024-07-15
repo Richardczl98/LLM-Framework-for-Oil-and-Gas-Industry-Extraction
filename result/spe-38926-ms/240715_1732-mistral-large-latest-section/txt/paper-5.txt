@@ -1,0 +1,26 @@
+to model this effect, the estimated impact of WlPI changed significantly compared to the initial estimate (Figure Sa and 5b). 
+Directionality. The permeability in the Tor formation of the Valhall field is locally enhanced by open fractures serving as fluid conduits. The preferential direction of these open fractures will impact the waterflood production response. No geological work was performed on this parameter, as even an extreme degree of directional permeability gave only a marginal difference in waterflood response. 
+Final Production Tornado Chart. Based on the above parameters, an updated Tornado chart for the production response was generated (Figure 5b). This changed the ranking and the impact of the reservoir uncertainties compared to the initial Tornado chart. 
+Well OPEX. Solids production and well collapses cause high well operating costs at Valhall. Historically, the well life of new wells is limited to an average of 7 years, before a complete redrill needs to be performed. The main driver for the well OPEX is well life. Well lives of 3.5, 7 and 12 years were assumed for the low case, base and high estimates for well OPEX. The well OPEX was divided into injection well OPEX and production well OPEX. 
+No refinement of the actual re-drill costs were considered necessary, as this is well established through statistical data on historical performance. 
+Drilling CAPEX. The first iteration on the drilling cost was performed using a typical well cost for an injection well independent of well location. For the refinement, drilling time estimates were prepared for each of the injection wells based on preliminary reservoir targets. The drilling cost was also revised to reflect drilling performance of the ongoing drilling and predicted trends in daily rig rates. 
+Final Project Tornado Chart. Based on the refined estimate ranges, the total project Tornado chart was updated (Figure 4b). Through the analysis of the business drivers, the confidence and understanding of the key parameters impacting the project was improved significantly, ensuring quality input to the probabilistic analysis. 
+Probabilistic Analysis 
+The deterministic analysis focused on quantifying the impact each parameter has separately on the project economics. In the probabilistic analysis, all parameters are varied simultaneously, and the impact of the combined parameter uncertainty in the project is quantified as a economic value with an associated probability of occurring. The Expected 
+Values (EV), or the probability weight average outcome, is also calculated. 
+Decision Tree. A probabilistic model is based on a decision tree analysis. The four top ranked parameters identified from the tornado chart were used to construct a decision tree (Figure 6). The decision tree is then used to evaluate all possible outcome combinations with associated probability and Net Present Value (NPV) for each of the development options. 
+The parameters selected for the analysis were, production response, injector well OPEX, drilling CAPEX and producer well OPEX. The four selected parameters captured more than 98% of the total variance of the project. 
+The decision tree analysis was run for the following cases: 
+New Platform 15 wells (NP 15) 
+New Platform 11 wells (NP 11) 
+Existing Platforms 5 wells (DP 5) 
+Existing Platforms 5 wells followed by 6 additional wells 
+years after first injection (DP 5+6) 
+Cumulative Probability Curve. The results from the decision tree analysis are presented in the form of a cumulative probability curve, or a Expectation Curve9 with NPV on the x­axis, and cumulative probability on the y-axis. By plotting the alternative watertlood strategies on the same plot, the potential risk and reward for each alternative can be assessed on a comparable basis (Figure 7). 
+Figure 7 shows the comparison between building a new platform with 11 or 15 well slots or modifying existing platformsfor the Valhall waterflood. The following can be concluded; 
+All strategies have considerable risk, with approximately 50-70% chance of loosing money 
+All options have negative expected value. 
+NP15 has the best expected NPV, while DP5 has the lowest expected NPV. 
+NP15 has considerable higher upside potential than the DPS, while the difference in risk is less pronounced. 
+Based on the probabilistic analysis, the new platform 15 wells option (NP15) was picked as the preferred development concept. This option has a slightly negative expected NPV, with significant risk of loosing more money. The upside potential of this case, encourages further analysis of the probabilistic results to explore possible risk mitigation with the aim of achieving a positive expected NPV. 
+Appraisal 

@@ -1,0 +1,7 @@
+Baker 1998
+Figure 14—Log of WOR vs Np –surveillance plot () 
+(<>)Fig. 14 illustrates a close similarity between Lower Napo T reservoir response and the pattern behavior suggested by the author. This comparison allowed us to confirm that Lower and Basal Napo T reservoirs were behaving as a layered or stratified reservoir (see (<>)Fig. 10). Regarding the breakthrough of different layers, pointed out also by the author, these responses could be supported by the heterogeneity observed in the injector wells (see (<>)Fig. 11). 
+Phase 2 Well responses during Tiguino 05WIW shut in 
+During Tiguino 05WIW shut in (September 2014 to January 2015) some well responses such as salinity measurements and bottom hole pressures (BHP) were monitored and analyzed. 
+BHP well response 
+During Tiguino 05WIW shut in there were only 3 producer wells that had their BHP sensors working. These wells were Tiguino 06HZ, Tiguino 12, and Tiguino 08. Once Tiguino 05WIW was shut in in September 2014, the BHP of Tiguino 06HZ began to fall ((<>)Fig. 15). The rest of the wells did not show important BHP changes. During Tiguino 05WIW shut in water salinity measurements of Tiguino 06HZ also changed ((<>)Fig. 16). 

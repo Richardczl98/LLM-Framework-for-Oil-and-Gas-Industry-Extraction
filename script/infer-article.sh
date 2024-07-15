@@ -1,0 +1,1 @@
+python opgee_infer_cli.py -p data/spe/spe-38298-ms.pdf -e referee_majority -g section

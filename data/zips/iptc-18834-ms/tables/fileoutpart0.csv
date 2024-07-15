@@ -1,0 +1,23 @@
+Project _x000D_,Area _x000D_,Reservoir _x000D_,Depositional Environment _x000D_,Drive Mechanism _x000D_,Waterflood pattern _x000D_,Timing When Waterflood Started _x000D_,Cumulative Water Injection by Hydrocarbon Pore Volume _x000D_
+B _x000D_,B _x000D_,D3 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas _x000D_,Peripheral _x000D_,Jun-12 _x000D_,0.11 _x000D_
+C _x000D_,CC _x000D_,D2 _x000D_,Fluvio-Deltaic _x000D_,Gas Cap _x000D_,Inverted 5 spot and Peripheral _x000D_,Nov-10 _x000D_,0.33 _x000D_
+,CC _x000D_,D3 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas and Gas Cap _x000D_,Inverted 5 spot and Peripheral _x000D_,Nov-10 _x000D_,0.16 _x000D_
+,CC1 _x000D_,D2 _x000D_,Fluvio-Deltaic _x000D_,Gas Cap _x000D_,Inverted 5 spot and Peripheral _x000D_,May-09 _x000D_,0.30 _x000D_
+,CC1 _x000D_,D3 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas and Gas Cap _x000D_,Inverted 5 spot and Peripheral _x000D_,May-09 _x000D_,0.17 _x000D_
+,CF _x000D_,D2 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas _x000D_,Inverted 5 spot and Peripheral _x000D_,Jan-11 _x000D_,0.22 _x000D_
+,CF _x000D_,D3 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas _x000D_,Inverted 5 spot and Peripheral _x000D_,Jan-11 _x000D_,0.21 _x000D_
+E _x000D_,EE _x000D_,D2 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas and Gas Cap _x000D_,No Pattern _x000D_,Jul-95 _x000D_,1.33 _x000D_
+,EE _x000D_,D3 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas _x000D_,No Pattern _x000D_,Jul-95 _x000D_,1.28 _x000D_
+,EK _x000D_,D2 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas and Gas Cap _x000D_,Peripheral _x000D_,Oct-03 _x000D_,0.61 _x000D_
+,EK _x000D_,D3 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas _x000D_,Peripheral _x000D_,Oct-03 _x000D_,0.35 _x000D_
+,EL _x000D_,D2 _x000D_,Fluvio-Deltaic _x000D_,Gas Cap _x000D_,Line Drive _x000D_,Nov-06 _x000D_,0.86 _x000D_
+,EL _x000D_,D3 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas _x000D_,Line Drive _x000D_,Nov-06 _x000D_,0.27 _x000D_
+D _x000D_,D _x000D_,SH2 _x000D_,Clastic Braided _x000D_,Solution Gas _x000D_,Peripheral _x000D_,Jan-00 _x000D_,1.74 _x000D_
+W _x000D_,WA _x000D_,D1 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas _x000D_,Peripheral _x000D_,Mar-07 _x000D_,0.18 _x000D_
+,WA _x000D_,D2 _x000D_,Fluvio-Deltaic _x000D_,Solution Gas _x000D_,Peripheral _x000D_,Mar-07 _x000D_,0.42 _x000D_
+,WC _x000D_,SH1 _x000D_,Clastic Braided _x000D_,Solution Gas _x000D_,Peripheral _x000D_,Nov-03 _x000D_,0.85 _x000D_
+,WDE1 _x000D_,SH1 _x000D_,Clastic Braided _x000D_,Solution Gas _x000D_,No Pattern _x000D_,Jul-03 _x000D_,0.89 _x000D_
+,WDE1 _x000D_,SH2 _x000D_,Clastic Braided _x000D_,Solution Gas _x000D_,No Pattern _x000D_,Jul-03 _x000D_,0.93 _x000D_
+,WDE2 _x000D_,SH1 _x000D_,Clastic Braided _x000D_,Solution Gas _x000D_,No Pattern _x000D_,Jun-03 _x000D_,0.50 _x000D_
+,WDE2 _x000D_,SH2 _x000D_,Clastic Braided _x000D_,Solution Gas _x000D_,No Pattern _x000D_,Jun-03 _x000D_,1.27 _x000D_
+T _x000D_,TW _x000D_,SH2 _x000D_,Clastic Braided _x000D_,Solution Gas _x000D_,No Pattern _x000D_,Oct-01 _x000D_,1.78 _x000D_

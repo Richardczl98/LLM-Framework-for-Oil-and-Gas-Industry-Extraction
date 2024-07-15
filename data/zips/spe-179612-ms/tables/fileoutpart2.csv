@@ -1,0 +1,12 @@
+BHP _x000D_,"bottom hole pressure, psia _x000D_"
+DCA _x000D_,decline curve analysis _x000D_
+EUR _x000D_,"estimate ultimate recovery, bbl _x000D_"
+IOR _x000D_,improved oil recovery _x000D_
+Np _x000D_,"cummulative oil production, bbl _x000D_"
+NPV _x000D_,"net present value, MUSD _x000D_"
+Pr _x000D_,"reservoir pressure, psia _x000D_"
+PVI _x000D_,"pore volumes injected, fraction _x000D_"
+RF _x000D_,"recovery factor, percentage _x000D_"
+VRR _x000D_,"voidage replacement ratio, percentage _x000D_"
+WCut _x000D_,"water cut, percentaje _x000D_"
+WOR _x000D_,water oil Ratio (dimensionless) _x000D_

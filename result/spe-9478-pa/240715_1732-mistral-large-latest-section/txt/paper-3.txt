@@ -1,0 +1,33 @@
+"TABLE 1-HEWITT UNIT RESERVOIR General Unit area, acre ","DATA 2,610 "
+"Floodable net sand volume, acre-ft ","284,700 "
+"Average composite thickness, ft (22 separate sand reservoirs) ",109 
+"OOIP, MMbbl ",350.8 
+Rock Properties ,
+"Permeability, md ",184 
+"Porosity, 0/o ",21.0 
+"Connate water, 0/o ",23.0 
+Lorenz coefficient ,0.49 
+Permeability variation ,0.726 
+Fluid Properties ,
+Mobility ratio ,4.0 
+"Original reservoir pressure, psig ",905 
+"Reservoir temperature, °F ",96 
+"Original FVF, RB/STB ",1.13 
+"Flood start FVF, RB/STB ",1.02 
+"Oil stock-tank gravity, 0API ",35 
+"Oil viscosity, cp ",8.7 
+"Original dissolved GOA, cu ft/STB ",253 
+Primary recovery mechanism ,solution-gas drive gravity drainage 
+
+rently only two of the wells are maintained for makeup requirements. Produced water is treated in coalescers and sand filters before reinjection. Source water has been commingled with produced water since 1975 without any adverse effects. 
+Operations 
+Unit operations, shown in Fig. 6, began with injection in April 1969, and approximately 6 months later oil response occurred. Production increased steadily during 1970, to 9,000 BOPD (1431 m3/d oil), and then leveled off during the next 20 months at an average of 9,500 BOPD (1510 m3/d oil) through Aug. 1972. Response from the 1971 expansion area combined with the re­mainder of the unit to peak production at 14,000 BOPD (2226 m3 /d oil) during Jan. 1973. The unit production declined at a constant rate of 24% per year from 1974 until 1977, when the decline began to shift to the current decline rate of 12% per year. 
+Water production rose rapidly along with early flood gains, and by 1972 exceeded 90,000 BID (14 309 m 3 /d) for a water cut of more than 90%. This high water-cut behavior was expected. Preunit engineering studies had predicted this type of behavior, caused primarily by permeability variation. 
+Injection rose rapidly during the early development to 190,000 BID (30 208 m3/d), which is essentially plant capacity. Input remained at that level through the third quarter of 1975. The drop in injection after 1975 to the 
+Fig. 5-Hewitt Unit flood development. 
+Fig. 6-Hewitt Unit operations. 
+current level of 160,000 BID (25 438 m 3 /d) was due to selective injection cutbacks discussed later under Flood Optimization. 
+Cumulative withdrawals since unitization to Jan. 1, 1980, total 34 MMbbl (5 405 568 m3) of oil and 425 MMbbl (67.6x 106 m3) of water. A total of 648 MMbbl (103 x 106 m3) of water has been injected, which equates to a 1.4 reservoir pore volume throughput. 
+Injection Well Design 
+Initial waterflood studies indicated a large permeability variation in the sands at the Hewitt field. This, along with the large number of sands proposed to waterflood, indicated the need for injection water control to flood the field efficiently. 
+Fig. 7 illustrates a triple completion used to segregate injection mechanically. Surface casing was cemented below freshwater sands, and three staggered lengths of 2Ys-in. (7.3-cm) casing then were run and cemented to the surface. The short string, or Completion A, was set through the first Hewitt sand, String B through the sec­ond sand, and String C included the third, fourth, and fifth sands. Each completion string was perforated to in­clude at least one of the four major sands (Chubbee, 2C, 3C, and 3E). This method of injection well completion enabled simultaneous flooding of most of the reserves. State regulatory approval was received to inject down cemented casing. 

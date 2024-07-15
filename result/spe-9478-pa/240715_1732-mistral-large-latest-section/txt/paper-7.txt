@@ -1,0 +1,39 @@
+TABLE 5-HEWITT UNIT RECOVERY ,
+"OOIP, MMbbl ",350.8 
+"Cumulative primary to unitization, MMbbl ",98.5 
+%001P ,28.1 
+"Estimated unit primary from March 1, 1968, MMbbl ",11.1 
+"Unit ultimate primary, MMbbl ",109.6 
+%001P ,31.2 
+"Estimated unit ultimate from March 1, 1968, MMbbl ",46.0 
+"Unit area ultimate (primary and secondary), MMbbl ",144.5 
+%001P ,41.2 
+"Ultimate flood gain over ultimate primary, MMbbl ",34.9 
+"percent of ultimate primary, % ",31.8 
+
+The results of replacement well drilling (increased ultimate tract recovery) led to a study of all producing patterns in the unit with more than one producing well. The study results (Table 4) indicated that multiwell pro­ducing patterns are predicted to average 85 bbl/acre-ft (10 956 m3/km2 ·m) greater recovery than single well patterns. The results of this study initially led to five in­fill drilling locations (Fig. 11). 
+The five infill wells averaged initial potential of 162 BOPD (25.8 m 3 Id oil) per well. These wells should in­crease tract recovery by an average of 43 bbl/acre-ft (5542 m3 /km2 •m). The infill drilling program has con­tinued in 1980 and 1981 with five and 24 additional wells, respectively. 
+Recovery 
+The Hewitt Unit is expected to recover 46 MMbbl (7Xl06 m3) of oil through the life of the unit. Table 5 summarizes unit recovery, reflecting 34.9 MMbbl (5 x 106 m3) of additional oil recovery over primary. Without the optimization work programs outlined earlier, the unit would have produced only 41 MMbbl (65 X 106 m3) of oil. The waterflood optimizing methods therefore will yield an additional 5 MMbbl (794 936 m3). 
+Conclusions 
+The results achieved at the Hewitt Unit waterflood demonstrate the benefits of a thorough surveillance pro­gram and the development of measures to optimize recovery. Early programs to increase recovery included triple-completion injection wells, tubing and packer in-
+Fig. 11-Hewitt Unit infill drilling. 
+stallations for further injection distribution, and sand fracture treatments of producing wells. Recent tech­niques have included the polymer-augmented injection projects and an infill drilling program. These optimiza­tion methods have slowed production decline and in­creased ultimate recovery. Methods used at Hewitt should have application in other waterflood operations. 
+References 
+AIME Video Tape course Notes, Fundamentals of Reservoir Engineering, Part II, Chap. 7, B.H. Caudle, U. of Texas. 
+Caudle, B.H.: "Predicting the Performance of Injection Opera­tions in Stratified or Pseudo-Stratified Formations," J. Pet. Tech. (Jan. 1966) 19-22. 
+Cox, E.: "Surface and Reservoir Control oflnjection Water in the Hewitt Unit Waterflood," J. Pet. Tech. (Apr. 1972) 426-430. 
+SI Metric Conversion Factors 
+acre ,X ,4.046 873 ,E+03 ,,2 m
+acre-ft ,X ,1.233 489 ,E+03 ,,3 m
+0API ,,141.5/(131.5+ ,0 API) ,,g/cm3 
+cp ,X ,1.0* ,E-03 ,= ,Pa·s 
+cu ft ,X ,2.831 685 ,E-02 ,,3 m
+m. ,X ,2.54* ,E+0l ,,mm 
+op ,,(°F-32)/1.8 ,,,oc 
+ft ,X ,3.048* ,E-01 ,= ,m 
+lbm ,X ,4.535 924 ,E-01 ,,kg 
+
+*Conversion factor is exact. 
+JPT 
+Original manuscript received in Society of Petroleum Engineers office July 18, 1980. Paper accepted for publication Sept. 4, 1981. Revised manuscript received Jan. 26, 1982. Paper (SPE 9478) first presented at the SPE 55th Annual Technical Con­ference and Exhibition held in Dallas Sept. 21-24, 1980. 

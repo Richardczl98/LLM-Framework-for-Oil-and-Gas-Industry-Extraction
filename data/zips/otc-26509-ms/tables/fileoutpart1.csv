@@ -1,0 +1,5 @@
+Layer _x000D_,Perforation Interval _x000D_(m) _x000D_,Pore Pressure (psi) _x000D_,Young’s Modulus (Mpsi) _x000D_,ShMin Gradient (psi/ft) _x000D_,ShMax Gradient (psi/ft) _x000D_
+Zone 1 _x000D_,10 _x000D_,2800 _x000D_,0.58 _x000D_,0.81 _x000D_,1.02 _x000D_
+Zone 2 _x000D_,20 _x000D_,3220 _x000D_,0.70 _x000D_,0.80 _x000D_,0.98 _x000D_
+Zone 3 _x000D_,30 _x000D_,3410 _x000D_,0.97 _x000D_,0.89 _x000D_,1.08 _x000D_
+Zone 4 _x000D_,10 _x000D_,3655 _x000D_,0.99 _x000D_,0.69 _x000D_,0.85 _x000D_

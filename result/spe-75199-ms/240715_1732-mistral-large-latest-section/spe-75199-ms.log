@@ -1,0 +1,7 @@
+2024-07-15 17:32:53,517-INFO-[opgee_cli.py:main:143] Processing paper: %s args.paper
+2024-07-15 17:32:53,517-INFO-[opgee_cli.py:main:161] Start shallow run - read field names and years from ground truth: ./data/spe/spe-75199-ms-v2.xlsx
+2024-07-15 17:32:53,517-DEBUG-[xls_parser.py:__init__:45] ground truth file: ./data/spe/spe-75199-ms-v2.xlsx
+2024-07-15 17:32:53,821-INFO-[opgee_cli.py:main:176] Extracted 3 fields: [Field(name=Lagunillas 07 Reservoir, display_name=Lagunillas 07 Reservoir, producing year=1926, is_from_gt=True, duplicated_in_gt=True, Field(name=Lagunillas 07 Reservoir, display_name=Lagunillas 07 Reservoir_1, producing year=1984, is_from_gt=True, duplicated_in_gt=True, Field(name=Lagunillas 07 Reservoir, display_name=Lagunillas 07 Reservoir_2, producing year=1999, is_from_gt=True, duplicated_in_gt=True]
+2024-07-15 17:32:53,821-INFO-[opgee_cli.py:main:183] Start to extract fields from ./data/zips/spe-75199-ms.zip for the above fields
+2024-07-15 17:32:53,825-DEBUG-[extract_main.py:extract_from_txt:48] Start to ask field:Lagunillas 07 Reservoir year: 1926
+2024-07-15 17:32:57,077-INFO-[prompt_template.py:pt_sec1_production_method:394] Start to prepare section 1 prompts for Lagunillas 07 Reservoir

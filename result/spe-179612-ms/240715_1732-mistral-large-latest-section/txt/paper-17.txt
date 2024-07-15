@@ -1,0 +1,18 @@
+Table 1—Fare per barrel assumption 
+Years ,2015 ,2016 ,2017 ,2018 ,2019 ,2020 ,2021 ,2022 
+Fare per barrel (USD) ,30.57 ,30.62 ,30.77 ,30.93 ,31.08 ,31.24 ,31.39 ,31.55 
+
+Variable costs 
+Total oil operating cost 4.77USD/bbl (it includes not only variable cost but also fixed and administrative cost) 
+Water cost per barrel is 0.12USD/bbl 
+Economics Field results 
+(<>)Table 2 illustrates the economic results regarding the increase oil production achieved after the described events in Tiguino field. 
+Table 2—Economic Field Results 
+Cases ,Cummulative cash flow (MUSD) ,ECONOMIC FIELD RESULTS ,
+,,NPV at 15% discount rate (MUSD) ,TOTAL Operating Cost (USD/bbl) 
+Case 1: Before TIG-05WIW shut in ,"26,511 ","28,287 ",25.29 
+Case 2: After TIG-05WIW shut in ,"38,119 ","34,942 ",22.80 
+Case 2 -Case 1 ,"11,608 ","6,655 ",(2.49) 
+
+As is showed in (<>)Table 2, the net present value (NPV) of the field increased in 24% for 8 years with a discount rate of 15%. In addition, the operating cost was reduced in 2.49 USD/bbl. (<>)Fig. 20 illustrates the cumulative cash flow results before Tiguino 05WIW and after Tiguino 05WIW shut in. 
+Figure 20—Cummulative cash flow results 

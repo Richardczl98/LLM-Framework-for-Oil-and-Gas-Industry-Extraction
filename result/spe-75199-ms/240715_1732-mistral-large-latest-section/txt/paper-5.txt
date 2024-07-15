@@ -1,0 +1,7 @@
+0 50 100 150 200 250 300 1984 1985 1986 1987 1988 1989 1990 1991 1992 1994 1995 1996 1997 1998 1999 TIME (years) Injection Rate (mbpd) 
+Fig.2 – Water Injection Rate (mbpd) 
+Fig.3 –Average Reservoir Pressure vs. Time 
+PPrreessssuurree 11998800 
+Fig.4 – Pressure Distribution Map (1980) 
+PPrreessssuurree 11998844 
+Fig.5 – Pressure Distribution Map (1984) 

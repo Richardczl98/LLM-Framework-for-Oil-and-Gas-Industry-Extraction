@@ -1,0 +1,18 @@
+{
+    "no_of_tokens_prompt": {
+        "open-mistral-7b": 0,
+        "open-mixtral-8x7b": 0,
+        "mistral-small-latest": 0,
+        "mistral-medium-latest": 0,
+        "mistral-large-latest": 128225
+    },
+    "no_of_tokens_completion": {
+        "open-mistral-7b": 0,
+        "open-mixtral-8x7b": 0,
+        "mistral-small-latest": 0,
+        "mistral-medium-latest": 0,
+        "mistral-large-latest": 998
+    },
+    "cost": 1.049752,
+    "time": 167.562646150589
+}

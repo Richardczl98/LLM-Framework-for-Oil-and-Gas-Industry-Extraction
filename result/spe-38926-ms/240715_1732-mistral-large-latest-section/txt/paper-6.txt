@@ -1,0 +1,27 @@
+In this phase the results of the probabilistic analysis were evaluated. The probabilistic analysis identified that all the strategies were associated with high risk and through evaluation of the probabilistic results, possible risk mitigation measures can be analyzed. The value of additional infonnation was analyzed and the impact of phasing the waterflood development was evaluated, with the aim of identifying actions that would reduce the risk associated with the project. 
+Value of Information. The available tools gave us the possibility of evaluating the value of additional information. The uncertainties are assumed to be solved before the decision is made. If this gives a better NPV than the base case it represents the value of what the project might be willing to pay for this information. Figure 8 illustrates how perfect information on waterflood production response impacts the cumulative probability distribution. In this case, the value of eliminating the low production scenario can be calculated and decisions on additional testing or data gather can be made9. In real life information is rarely perfect, meaning that not all uncertainties are removed when gaining more information. 
+Phased Development. One way to gain relevant information is to phase the project (start small and expand if performance is favorable). Since most of the downside is due to production uncertainty, the effect of phasing the capital investment by delayed drilling until more reservoir data is gathered, was evaluated (Figure 9). The evaluation concluded: 
+Phasing the investment does not increase the value of the project 
+The NP phasing options requires most of the investment to be made up-front, thus limiting the minimization of the downside. 
+Preferred Concept 
+Based on the decision risk analysis evaluation the preferred concept can be summarized as follows: 
+New Platform Bridge linked to existing Valhall Platforms 
+Equipment to inject 210,000 barrels of water daily 
+Equipment to treat 100,000 barrels of produced water daily 
+15 Well Slots 
+Utility and safety equipment to support water injection, drilling and limited production. 
+The design is based on re-injection of all produced water. 
+The project is expected to increase field reserves by approximately 75 mmboe, by injection of close to 800 mmbw over a 12 year period. 
+Conclusions 
+Based on the study, the following conclusions can be made; 
+The decision risk analysis was a powerful tool to identify key drivers that could impact project success. 
+The decision risk process helped the team focus their efforts on evaluating the key business drivers and thereby defer work that was not essential to the key decision. 
+The decision risk analysis highlighted the overall risks with the project and helped quantify how much money one would be willing to spend to reduce risks. 
+The process was successful in its main objective to select the preferred development concept, taking into account both technical and economical risk. The methodology facilitated selection on an equal comparison basis. 
+Based on the results from the decision risk analysis, a new water injection platform, bridge linked to the existing Valhall facilities was selected as the preferred development concept. 
+Acknowledgments 
+The authors wish to thank the management of the Valhall partner companies, Amerada Hess Norge A.S., Enterprise Oil Norge Ltd, Elf Petroleum Norge A.S and Amoco Norway Oil Company. In addition, we would like to acknowledge Strategic Decision Group (SDG) and Brown & Root's contributions to the study and last, but not least, we would like to thank Amoco personnel, who have been actively involved in the waterflood evaluation. Without their support, we could not have published this paper. The opinions in this paper represent those of the authors, and not necessarily the Valhall partner companies. 
+References 
+Ruddy I., Andersen, M.A., Pattillo, P.D., and Bishlawi, M., "High Porosity chalk reservoir: a case study of Valhall field," JPT, July 1989, 741-746. 
+York, S.D., Peng, C.P., Joslin, T.H., "Reservoir Management of the Valhall Field, Norway, a high porosity, naturally fractured chalk formation," paper SPE 20992 presented at Europec, The Hague, Netherlands, Oct 22-24, 1990. 
+Powley, K.D., Peng, C.P., Ali, N., "Simulation ofa North Sea Chalk Reservoir With Dynamic Rock And Natural Fracture Properties: Case Study of the Valhall Field", paper SPE 24914, presented 67th Annual Technical Conference and Exhibition, Washington, DC, October 4-7, 1992. 

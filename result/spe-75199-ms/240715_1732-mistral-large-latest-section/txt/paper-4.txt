@@ -1,0 +1,40 @@
+Nomenclature. 
+Bw = Water formation volume factor, RB/STB iw = Injection rate, STB/D 
+Bo = Oil formation volume factor, RB/STB 
+qo = Oil production rate, STB/D 
+Bg = Gas formation volume factor, RB/scf 
+Rp = Producing gas oil ratio, scf/STB 
+Rs = Solution gas oil ratio, scf/STB 
+qw = Water production rate, STB/D 
+ob 
+r= Outer radius of the banked oil, ft 
+Wb 
+r= Water bank radius, ft 
+icw = Cumualative water injected, bbl 
+ = injection efficiency 
+ = Porosity, fraction 
+ = Net  oil sand thickness , ft 
+sg = Gas saturation at start of injection 
+swbt = Average water saturation behind front 
+siw = Connate water saturation, fraction 
+OOWC = Original oil water contact, ft.ss. 
+TOP = Depth of top of reservoir, ft.ss. 
+References 
+Moretti, F. J. and Leung, S. K.: ¨Reservoir Geology of the Lagunillas Inf-7 Reservoir, Bolivar Coastal Field, Lake Maracaibo, Venezuela.¨ Exxon production Research Company, EPR.102.PS82. Oct. 1982. 
+Shagroni, M. A., Boberg, T. C., Gonzalez, J. A. and Matheus, L.E. : ¨LL-7 Reservoir Engineering Study.¨ Exxon, Production research Company, 1982. 
+Satter,A. and Thakur, G. C.: ¨Integrated Petroleum Reservoir Management – A Team Approach.¨ Penn Well Books, OK. (1994). 
+Satter,A. and Thakur, G. C.: ¨Integrated Waterflood Asset Management.¨ Penn Well Books, OK. (1998). 
+Thakur, G. C.: ¨Waterflood Surveillance Techniques-A Reservoir Management Approach.¨ JPT (Oct. 1991) 1180-87. 
+Willhite, G. P.: ¨Waterflooding¨SPE Textbook Series, Volume 3 (1986). 
+Dunlop, K. N. B., Geoffrey, A. K. and Breitenbach, E. A.: ¨Monitoring Oil/Water Fronts by Direct Measurements.¨ JPT (May 1991), 592-602. 
+Ahmed, A. E., Murthy, R. V. S., Bharkatya, D. K. and Sengupta, T. K..; ¨ Optimization of Water Injection in a Sandstone Reservoir : A Successful Case Study.¨ paper SPE 39554 presented at the 1998 India Oil and Gas Conference and exhibition, New Delhi, India, Feb. 17-19. 
+Mamgai, D.C., Lehmbar, S., Rangaraj, S. and Singh, D.; ¨ Improving Recovery Through Peripheral Waterflood Management in a Multilayered Reservoir.¨ paper SPE 39561 presented at the 1998 India Oil and Gas Conference and exhibition, New Delhi, India, Feb. 17-19. 
+Anbarci, K., Grader, A. S. and Ertekin, T.; ¨ Determination of Front Locations in a Multilayer Composite Reservoir.¨ paper SPE 19799 presented at the 1989 64th SPE Annual Technical Conference and exhibition, San Antonio, Oct. 8-11. 
+Verma, S. C., Madhavan, S., Roy, N. M. and Banerji, S.; ¨ Tracking Waterflood Front Movement Using Production Logging and cross Correlating with Individual Layer permeabilities in Stratified Reservoirs – A Case Study¨ paper SPE 39555 presented at the 1998 India Oil and Gas Conference and exhibition, New Delhi, India, Feb. 17-19. 
+Chan, K. S.: ¨ Water Control Diagnostic Plots¨ paper SPE 30775 presented at the 1995 SPE Annual Technical Conference and Exhibition, Dallas, Oct. 22 - 26. 
+Craig F. F. Jr.: ¨The reservoir Aspect of Waterflooding.¨ SPE Monograph, Volume 3, (1993). 
+Callaway, F. H.: ¨Evaluation of Waterflood Prospects.¨ JPT (Oct. 1959) 11-16. 
+Talash, A. W.: ¨An Overview of Wqtaerflood Surveillance and Monitoring.¨ JPT (Dec. 1988), 1539-43. 
+Rose, S. G., Buckwater, J. F. And Woodhall, R. J.: ¨The Design Engineering Aspects of Waterflooding.¨ Spe Monograph, Volume II (1989). 
+Oil Flowrate bpd Water Cut % Time (years) 
+Fig.1- Daily Oil Production and Watercut. 
