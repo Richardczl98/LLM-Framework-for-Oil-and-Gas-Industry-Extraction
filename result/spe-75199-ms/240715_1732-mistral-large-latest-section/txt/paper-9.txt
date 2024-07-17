@@ -1,5 +1,0 @@
-PERMEA 
-Fig.17 - Overlay of Permeable Zones and Waterflooded Zones 
-Fig.18 – Drive Mechanisms 
-1000 1100 1200 1300 1400 1500 1600 1700 1800 0 100 200 300 400 500 600 Cumulative Water Injected (mmbbls) Cumulative Fluid Produced (mmbbls) 
-Fig.19 – Cumulative Fluid Produced vs. Cumulative Water Injected 

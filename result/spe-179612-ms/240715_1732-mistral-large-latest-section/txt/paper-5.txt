@@ -1,5 +1,0 @@
-Figure 5—TIG 05 and TIG 11 Historical injection rates 
-As is clearly seen in (<>)Fig. 5, the drops in some points of each well injector data correspond to events of shut-in time. Between Tiguino 11WIW and Tiguino 05WIW, the latter has been the well with more frequent and longer times of shut-in, than Tiguino 11 WIW. It is important to mention that this well was shut-in from September 1, 2014 until January 17, 2015. After this longer shut-in event, it returned to its regular water injection conditions. 
-Tracer project 
-On July 17, 2009 a tracer project was carried out. An amount of tritium was injected and monitored in the injector well Tiguino 05WIW. (<>)Fig. 6 shows the tracer arrival appeared only in Tiguino 01HZ after approximately 7 months. 
-Figure 6—TIG 01HZ arrival tracer response (MEER report 2006) 

@@ -1,7 +1,0 @@
-WOR vs. Np well response 
-During Tiguino 05WIW shut in, Tiguino 01HZ, Tiguino 02ST, and Tiguino 06HZ wells showed a WOR downward trend. (<>)Fig. 17 illustrates the WOR vs Np plot for Tiguino 06HZ well. 
-Figure 17—TIG 06HZ WOR vs Np response 
-Phase 3 Reservoir results after Tiguino 05WIW shut in 
-The last part of Tiguino case analysis was carried out between January 17, 2015 (when Tiguino 05WIW returned to its steady water injection conditions) and August 31, 2015 (when the IOR project was last monitored). 
-Oil Cut vs Np 
-In order to have a better visualization of the results, that not only occurred after Tiguino 05WIW shut in but also during the entire IOR project, it is not neccesarily to look further than the Oil Cut versus Np plot ((<>)Fig. 18). 

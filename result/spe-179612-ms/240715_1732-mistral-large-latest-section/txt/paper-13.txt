@@ -1,4 +1,0 @@
-Figure 15—TIG 06HZ BHP response and production data 
-Figure 16—TIG 06HZ salinity response 
-As is clearly seen in (<>)Fig. 15, the BHP of Tiguino 06HZ began to stabilize after three months of Tiguino 05WIW shut in. This response allowed to confirm that Tiguino 11WIW floodfront was able to support the BHP of Tiguino 06HZ. It is important to mention that the distance between Tiguino 11WIW and Tiguino 06HZ is 1,400m. 
-In addition, (<>)Fig. 16 illustrates that, during unsteady injection rates of Tiguino 05WIW and also at the end of Tiguino 05WIW shut in, salinity variation responses were observed in Tiguino 06HZ. 

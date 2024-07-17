@@ -1,7 +1,0 @@
-TABLE 7 
-Comparison of Kern River 'Casing Blow' and Steam Distillate Properties 
-Property ,Condensate ,"300 ""F B07 ",300 °F B08 ,400°F B09 ,"400""FB10 "
-"p, g/cc ",0.870 ,0.87 ,0.86 ,0.856 ,0.86 
-Mo!Wt ,190 ,181 ,177 ,210 ,210 
-"u, co ",3.44 ,3.52 ,,5.12 ,
-

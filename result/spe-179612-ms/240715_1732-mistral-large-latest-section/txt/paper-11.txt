@@ -1,9 +1,0 @@
-maturity of an asset ((<>)Terrado 2006). In order to get a complete comprehension of this surveillance plot, the average monthly water injection rates of each injector well was added in a secondary Y axis ((<>)Fig. 13). (<>)Fig. 13 clearly illustrates particular reservoir water cut behavior. There are periods of time when water 
-Figure 13—Pore volumes injected – surveillance plot (after (<>)Terrado 2006) 
-cut was stable or even decreased, and other periods when water cut showed an increase trend. Our target was to understand the injection patterns involved in the stabilized water cut periods. 
-The novel idea of adding the injection rates per well was very useful for visualizing probable water channeling which mainly occurred from the point that Tiguino 11WIW was added to Tiguino 05WIW as another injector well. This is clearly observed between 0.023 to 0.12 PVI values. During this period of time, a direct relationship between the water cut increase trend and the injection rates patterns of Tiguino 11WIW is observed. This relationship is also confirmed between 0.16 to 0.18 PVI values (dashed horizontal light blue lines) 
-In contrast, from January to August 2014 (0.18 – 0.20 PVI values), the water cut shows a steady trend period. Even though, in this third period of time, the water injection rates of Tiguino 11WIW increased, the unsteady injection rates of Tiguino 05WIW played an even more important role. 
-From Tiguino 05WIW shut-in time (0.20 to 0.21 PVI values) to its return to its steady injection conditions (0.21 to 0.23 PVI values) the reservoir water cut remained stable longer. 
-As is clearly supported, the enhanced pore volumes injected (PVI) plot was a powerful tool to identify the reservoir water cut behavior. 
-Log of WOR –Surveillance plot 
-(<>)Fig. 14 illustrates the log of Water Oil ratio (WOR) versus cummulative oil production (Np) plot that is used as an indicator of reservoir channeling and heterogeneity ((<>)Baker 1998). 

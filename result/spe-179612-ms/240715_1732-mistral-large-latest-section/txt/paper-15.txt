@@ -1,9 +1,0 @@
-Figure 18—Oil cut – reservoir results 
-As is showed in (<>)Fig. 18, the Oil cut (which could be considered similar to oil rate) optimization results are positive. Oil rate optimization is clearly seen from the middle period of unsteady injection rates of Tiguino 05WIW (yellow circle markers) until its return (light blue circle markers). (<>)Fig.18 also includes the average injection rates per well (MBLS) corresponding to each selected period. 
-As is evident, Oil cut vs Np plot became a powerful tool to see the reservoir results after Tiguino 05WIW shut in. It should be mentioned that Tiguino 06HZ well was mainly responsible for the good reservoir results. 
-Tiguino case and their resemblance with cyclic waterflooding technique 
-As was mentioned before, cyclic waterflooding is a technique of injecting water and stopping it during certain periods of time. Cyclic Waterflooding existing literature supports the reservoir characterization, response analysis and results achieved in Tiguino Field. 
-Field Results 
-As it was mentioned before, the explained events occurred in Tiguino field contributed to the reservoir water cut stabilization and as a consequence the oil production of the reservoir improved. 
-Estimate ultimate recovery (EUR) results 
-In order to observe the impact of the described events in Tiguino field, two oil rate forecasts were achieved ((<>)Fig. 19). One oil rate forecast was estimated before Tiguino 05WIW shut in (September 2015) and the other after this shut in event (January 2015). 
