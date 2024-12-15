@@ -1,6 +1,6 @@
 ## Metadata
-- **Author**: Anjing Wang, Zhenlin Chen
-- **Email**: [anjing@57blocks.com] [Zhenlinc@Stanford.edu]
+- **Author**: Zhenlin Chen
+- **Email**: [Zhenlinc@Stanford.edu]
 - **Created**: Oct-4-2023
 - **Updated**: Oct-18-2023
 
