@@ -40,8 +40,10 @@
 4. **Repository Setup**: 
     - Clone this repository in your home directory or any directory you prefer.
     ```
-    git clone https://github.com/Richardczl98/LLM-Framework-for-Oil-and-Gas-Industry-Extraction
-    cd LLM-Framework-for-Oil-and-Gas-Industry-Extraction
+    
+    git clone https://github.com/Richardczl98/OPGEE-LLM-Training.git
+    
+    cd OPGEE-LLM-Training
     ```
     If you do not have a Github personal access token, please [apply one following this tutorial](https://www.wwwinsights.com/github-repository-collaborator/).
 
